@@ -8,12 +8,15 @@ public class GamePauseController : MonoBehaviour
     private InputAction escapeAction;
     private bool isPaused;
 
+    private SEPlayer sePlayer;
+
     private void Awake()
     {
         escapeAction = InputSystem.actions.FindAction("Escape");
         ConfigMenuController configMenuController = configUI.GetComponent<ConfigMenuController>();
         configMenuController.LoadConfigData();
         ResumeGame();
+        sePlayer = FindAnyObjectByType<SEPlayer>();
     }
 
     private void OnEnable()
@@ -46,6 +49,10 @@ public class GamePauseController : MonoBehaviour
         // カーソルは別途表示するので、ここでは表示しない。
         // Cursor.visible = true;
         // Cursor.lockState = CursorLockMode.None;
+        if(sePlayer != null) 
+        {
+            sePlayer.PlayOpenConfig();
+        }
     }
 
     public void ResumeGame()
@@ -58,5 +65,9 @@ public class GamePauseController : MonoBehaviour
         // カーソルは別途表示するので、ここでは表示しない。
         // Cursor.visible = false;
         // Cursor.lockState = CursorLockMode.Locked;
+        if(sePlayer != null) 
+        {
+            sePlayer.PlayCloseConfig();
+        }
     }
 }

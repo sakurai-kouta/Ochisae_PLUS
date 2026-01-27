@@ -213,6 +213,7 @@ public class PlayerController : MonoBehaviour
     }
     public void moveInitialPosHideout()
     {
+        sePlayer.PlayReturnHideout();
         stageManager.RestartStage();
         transform.position = initalPosHideout;
         rb2d = GetComponent<Rigidbody2D>();

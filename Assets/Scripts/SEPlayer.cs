@@ -10,6 +10,10 @@ public class SEPlayer : MonoBehaviour
     [SerializeField] private AudioClip seClip_gogogogo;
     [SerializeField] private AudioClip seClip_warp;
     [SerializeField] private AudioClip seClip_warpEnd;
+    [SerializeField] private AudioClip seClip_openConfig;
+    [SerializeField] private AudioClip seClip_closeConfig;
+    [SerializeField] private AudioClip seClip_saveConfig;
+    [SerializeField] private AudioClip seClip_returnHideout;
 
     public void PlayJump()
     {
@@ -38,6 +42,22 @@ public class SEPlayer : MonoBehaviour
     public void PlayWarpEnd()
     {
         audioSource.PlayOneShot(seClip_warpEnd);
+    }
+    public void PlayOpenConfig()
+    {
+        audioSource.PlayOneShot(seClip_openConfig);
+    }
+    public void PlayCloseConfig()
+    {
+        audioSource.PlayOneShot(seClip_closeConfig);
+    }
+    public void PlaySaveConfig()
+    {
+        audioSource.PlayOneShot(seClip_saveConfig);
+    }
+    public void PlayReturnHideout()
+    {
+        audioSource.PlayOneShot(seClip_returnHideout);
     }
     public void Stop()
     {

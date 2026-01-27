@@ -11,6 +11,7 @@ public class ConfigMenuController : MonoBehaviour
     [SerializeField] private Slider bgmVolumeSlider;
     [SerializeField] private Slider seVolumeSlider;
     [SerializeField] private Toggle englishModeToggle;
+    [SerializeField] private Toggle windowModeToggle;
     [SerializeField] private Button returnButton;
     [SerializeField] private Button quitButton;
     [SerializeField] private Button saveButton;
@@ -25,6 +26,7 @@ public class ConfigMenuController : MonoBehaviour
     private float masterVolume;
     private float bgmVolume;
     private float seVolume;
+    private bool isWindow;
 
     private BGMManager bgmManager;
     private SEPlayer sePlayer;
@@ -67,6 +69,7 @@ public class ConfigMenuController : MonoBehaviour
             masterVolume = data.masterVolume;
             bgmVolume = data.bgmVolume;
             seVolume = data.seVolume;
+            isWindow = data.isWindow;
         }
         else
         {
@@ -76,8 +79,10 @@ public class ConfigMenuController : MonoBehaviour
             masterVolume = 1.0f;
             bgmVolume = 1.0f;
             seVolume = 1.0f;
+            isWindow = false;
         }
         ApplySoundVolume();
+        ApplyScreenMode();
     }
 
     public void SaveConfigData()
@@ -87,14 +92,22 @@ public class ConfigMenuController : MonoBehaviour
             isEnglish = isEnglish,
             masterVolume = masterVolume,
             bgmVolume = bgmVolume,
-            seVolume = seVolume
+            seVolume = seVolume,
+            isWindow = isWindow
         };
         IsEnglish = isEnglish;
 
         string json = JsonUtility.ToJson(data, true);
         File.WriteAllText(ConfigPath, json);
         ApplySoundVolume();
+        ApplyScreenMode();
         Debug.Log("Config saved");
+    }
+
+    public void OnClickSaveButton() 
+    {
+        sePlayer.PlaySaveConfig();
+        SaveConfigData();
     }
 
     // =====================
@@ -111,6 +124,7 @@ public class ConfigMenuController : MonoBehaviour
     private void InitToggle()
     {
         englishModeToggle.onValueChanged.AddListener(OnLanguageToggleChanged);
+        windowModeToggle.onValueChanged.AddListener(OnWindowModeToggleChanged);
     }
 
     private void ApplyConfigToUI()
@@ -120,6 +134,7 @@ public class ConfigMenuController : MonoBehaviour
         seVolumeSlider.SetValueWithoutNotify(seVolume);
 
         englishModeToggle.SetIsOnWithoutNotify(isEnglish);
+        windowModeToggle.SetIsOnWithoutNotify(isWindow);
 
         if (isEnglish)
             ChangeLanguageEnglish();
@@ -127,6 +142,28 @@ public class ConfigMenuController : MonoBehaviour
             ChangeLanguageJapanese();
 
         VersionText.text = Application.version;
+    }
+
+    private void ApplyScreenMode() 
+    {
+        if (isWindow) 
+        {
+            //Screen.fullScreenMode = FullScreenMode.Windowed;
+            Screen.SetResolution(
+            1280,      // 横解像度
+            720,     // 縦解像度
+            FullScreenMode.Windowed  // フルスクリーン指定
+            );
+        }
+        else 
+        {
+            //Screen.fullScreenMode = FullScreenMode.FullScreenWindow;
+            Screen.SetResolution(
+            1920,      // 横解像度
+            1080,     // 縦解像度
+            FullScreenMode.FullScreenWindow  // フルスクリーン指定
+            );
+        }
     }
     
     private void ApplySoundVolume() 
@@ -147,6 +184,10 @@ public class ConfigMenuController : MonoBehaviour
             ChangeLanguageEnglish();
         else
             ChangeLanguageJapanese();
+    }
+    private void OnWindowModeToggleChanged(bool value)
+    {
+        isWindow = value;
     }
 
     // =====================
@@ -188,5 +229,6 @@ public class ConfigMenuController : MonoBehaviour
         public float masterVolume;
         public float bgmVolume;
         public float seVolume;
+        public bool isWindow;
     }
 }
