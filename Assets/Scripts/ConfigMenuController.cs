@@ -14,6 +14,7 @@ public class ConfigMenuController : MonoBehaviour
     [SerializeField] private Button returnButton;
     [SerializeField] private Button quitButton;
     [SerializeField] private Button saveButton;
+    [SerializeField] private TextMeshProUGUI VersionText;
 
     [Header("UI Informations")]
     [SerializeField] private TextMeshProUGUI returnButtonDetail;
@@ -124,6 +125,8 @@ public class ConfigMenuController : MonoBehaviour
             ChangeLanguageEnglish();
         else
             ChangeLanguageJapanese();
+
+        VersionText.text = Application.version;
     }
     
     private void ApplySoundVolume() 
