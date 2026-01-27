@@ -1,0 +1,1009 @@
+fileFormatVersion: 2
+guid: 1a2b8fc96776db84db3c774dca77beb9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6751984737646230503
+    second: windTileLeft_0
+  - first:
+      213: -5022821176947044649
+    second: windTileLeft_1
+  - first:
+      213: -3935666731565648159
+    second: windTileLeft_2
+  - first:
+      213: -2203139946557410546
+    second: windTileLeft_3
+  - first:
+      213: -2747271701097831776
+    second: windTileLeft_4
+  - first:
+      213: 506319521967032489
+    second: windTileLeft_5
+  - first:
+      213: -5258095939766930016
+    second: windTileLeft_6
+  - first:
+      213: -976842254905814272
+    second: windTileLeft_7
+  - first:
+      213: -7947167535633250078
+    second: windTileLeft_8
+  - first:
+      213: 2052904954471155687
+    second: windTileLeft_9
+  - first:
+      213: 4545694340653909144
+    second: windTileLeft_10
+  - first:
+      213: -2855025319365950471
+    second: windTileLeft_11
+  - first:
+      213: 4088657532860650273
+    second: windTileLeft_12
+  - first:
+      213: 344135545787616703
+    second: windTileLeft_13
+  - first:
+      213: -7774468645465095007
+    second: windTileLeft_14
+  - first:
+      213: 2246189866599270044
+    second: windTileLeft_15
+  - first:
+      213: 6210333928143060106
+    second: windTileLeft_16
+  - first:
+      213: 6939004088108497416
+    second: windTileLeft_17
+  - first:
+      213: -8661989763218915647
+    second: windTileLeft_18
+  - first:
+      213: 6282248336710474886
+    second: windTileLeft_19
+  - first:
+      213: 1937772512306614871
+    second: windTileLeft_20
+  - first:
+      213: -5842449998837459442
+    second: windTileLeft_21
+  - first:
+      213: 956435491601604233
+    second: windTileLeft_22
+  - first:
+      213: 288933797569525965
+    second: windTileLeft_23
+  - first:
+      213: 4372664093437101405
+    second: windTileLeft_24
+  - first:
+      213: -7565674170991098165
+    second: windTileLeft_25
+  - first:
+      213: 8697715452744610461
+    second: windTileLeft_26
+  - first:
+      213: 5161844488385469710
+    second: windTileLeft_27
+  - first:
+      213: 8740005342863602676
+    second: windTileLeft_28
+  - first:
+      213: 6500093351871408084
+    second: windTileLeft_29
+  - first:
+      213: -9042539262013564638
+    second: windTileLeft_30
+  - first:
+      213: -2608688967632804837
+    second: windTileLeft_31
+  - first:
+      213: 6307350319143853112
+    second: windTileLeft_32
+  - first:
+      213: -3472026051269835965
+    second: windTileLeft_33
+  - first:
+      213: 2171854785010608234
+    second: windTileLeft_34
+  - first:
+      213: 6161259591140102189
+    second: windTileLeft_35
+  - first:
+      213: 6088900463075516236
+    second: windTileLeft_36
+  - first:
+      213: -3708006333877919529
+    second: windTileLeft_37
+  - first:
+      213: 1875836891942909541
+    second: windTileLeft_38
+  - first:
+      213: -4646081494429608322
+    second: windTileLeft_39
+  - first:
+      213: 8175512144738654881
+    second: windTileLeft_40
+  - first:
+      213: -3169114506615714953
+    second: windTileLeft_41
+  - first:
+      213: -3021441993224472808
+    second: windTileLeft_42
+  - first:
+      213: 4602484163684691060
+    second: windTileLeft_43
+  - first:
+      213: 5750138718769258168
+    second: windTileLeft_44
+  - first:
+      213: -3851448218372542833
+    second: windTileLeft_45
+  - first:
+      213: -1286720071813151325
+    second: windTileLeft_46
+  - first:
+      213: 5623650769501443596
+    second: windTileLeft_47
+  - first:
+      213: -3946423201363494428
+    second: windTileLeft_48
+  - first:
+      213: 8513404068100419043
+    second: windTileLeft_49
+  - first:
+      213: 7465251987681937758
+    second: windTileLeft_50
+  - first:
+      213: -7283968858448187378
+    second: windTileLeft_51
+  - first:
+      213: -679984954433357221
+    second: windTileLeft_52
+  - first:
+      213: 6663778505360506248
+    second: windTileLeft_53
+  - first:
+      213: -4166014775037808936
+    second: windTileLeft_54
+  - first:
+      213: 2032308693015124335
+    second: windTileLeft_55
+  - first:
+      213: 1087649233267787191
+    second: windTileLeft_56
+  - first:
+      213: 4924057839754634106
+    second: windTileLeft_57
+  - first:
+      213: -3324064211080824633
+    second: windTileLeft_58
+  - first:
+      213: 4861814012232714252
+    second: windTileLeft_59
+  - first:
+      213: -7509981805438969226
+    second: windTileLeft_60
+  - first:
+      213: 693322330332225318
+    second: windTileLeft_61
+  - first:
+      213: -4964998171625028768
+    second: windTileLeft_62
+  - first:
+      213: 3026769433457091135
+    second: windTileLeft_63
+  - first:
+      213: 6714816856275156673
+    second: windTileLeft_64
+  - first:
+      213: -366793058718361260
+    second: windTileLeft_65
+  - first:
+      213: -1531090754515699906
+    second: windTileLeft_66
+  - first:
+      213: -2216273703398955192
+    second: windTileLeft_67
+  - first:
+      213: -4168586622642573279
+    second: windTileLeft_68
+  - first:
+      213: 1409444629044208566
+    second: windTileLeft_69
+  - first:
+      213: -7279321845830005584
+    second: windTileLeft_70
+  - first:
+      213: 2034195656677786023
+    second: windTileLeft_71
+  - first:
+      213: 8899053663497174382
+    second: windTileLeft_72
+  - first:
+      213: 6766217315650841344
+    second: windTileLeft_73
+  - first:
+      213: 7048757341291830237
+    second: windTileLeft_74
+  - first:
+      213: -3854446921051228164
+    second: windTileLeft_75
+  - first:
+      213: -6446196702748012063
+    second: windTileLeft_76
+  - first:
+      213: 402984805390704778
+    second: windTileLeft_77
+  - first:
+      213: -4162583878046873237
+    second: windTileLeft_78
+  - first:
+      213: 317436711359558203
+    second: windTileLeft_79
+  - first:
+      213: 3481560251810950544
+    second: windTileLeft_80
+  - first:
+      213: 663912028818632283
+    second: windTileLeft_81
+  - first:
+      213: 6918262130810914658
+    second: windTileLeft_82
+  - first:
+      213: 1224527193273686571
+    second: windTileLeft_83
+  - first:
+      213: 4892139355461752262
+    second: windTileLeft_84
+  - first:
+      213: -4302310920155853468
+    second: windTileLeft_85
+  - first:
+      213: 3831830102490737668
+    second: windTileLeft_86
+  - first:
+      213: -4204323273090323964
+    second: windTileLeft_87
+  - first:
+      213: 7622093708592317168
+    second: windTileLeft_88
+  - first:
+      213: 2644369717374653443
+    second: windTileLeft_89
+  - first:
+      213: 5147916344199012378
+    second: windTileLeft_90
+  - first:
+      213: -3705004834786895829
+    second: windTileLeft_91
+  - first:
+      213: 2626184762679001294
+    second: windTileLeft_92
+  - first:
+      213: 1949160944681476535
+    second: windTileLeft_93
+  - first:
+      213: 1133764530557078134
+    second: windTileLeft_94
+  - first:
+      213: 3259108924354533540
+    second: windTileLeft_95
+  - first:
+      213: -6828665010998616468
+    second: windTileLeft_96
+  - first:
+      213: 2277659085463162481
+    second: windTileLeft_97
+  - first:
+      213: -4603995938193129637
+    second: windTileLeft_98
+  - first:
+      213: 5406591754406145687
+    second: windTileLeft_99
+  - first:
+      213: -569813195084556423
+    second: windTileLeft_100
+  - first:
+      213: 3474968106741613576
+    second: windTileLeft_101
+  - first:
+      213: -1818934954977638200
+    second: windTileLeft_102
+  - first:
+      213: 4943042737282742032
+    second: windTileLeft_103
+  - first:
+      213: -9135314804552975384
+    second: windTileLeft_104
+  - first:
+      213: -6190679986193097548
+    second: windTileLeft_105
+  - first:
+      213: -8354190589394254151
+    second: windTileLeft_106
+  - first:
+      213: 5442507987532195760
+    second: windTileLeft_107
+  - first:
+      213: 7857908972391893613
+    second: windTileLeft_108
+  - first:
+      213: -3085748650826085438
+    second: windTileLeft_109
+  - first:
+      213: -6765253226823351841
+    second: windTileLeft_110
+  - first:
+      213: 8316155289236750222
+    second: windTileLeft_111
+  - first:
+      213: 6039230237811063943
+    second: windTileLeft_112
+  - first:
+      213: -5234503467012236634
+    second: windTileLeft_113
+  - first:
+      213: 6871292782842107528
+    second: windTileLeft_114
+  - first:
+      213: 3955906170430602456
+    second: windTileLeft_115
+  - first:
+      213: -1351850315954017821
+    second: windTileLeft_116
+  - first:
+      213: 1487351364996107389
+    second: windTileLeft_117
+  - first:
+      213: 9155051654076652946
+    second: windTileLeft_118
+  - first:
+      213: 6704866297568761130
+    second: windTileLeft_119
+  - first:
+      213: -2757442515773172479
+    second: windTileLeft_120
+  - first:
+      213: -8855054665601921923
+    second: windTileLeft_121
+  - first:
+      213: 4582311866498005193
+    second: windTileLeft_122
+  - first:
+      213: -8676338524638153685
+    second: windTileLeft_123
+  - first:
+      213: 2437175874120637588
+    second: windTileLeft_124
+  - first:
+      213: -3095456173902448810
+    second: windTileLeft_125
+  - first:
+      213: -7843675945690796856
+    second: windTileLeft_126
+  - first:
+      213: -3582823754017348968
+    second: windTileLeft_127
+  - first:
+      213: 4029678781563699233
+    second: windTileLeft_128
+  - first:
+      213: -7357659476615512943
+    second: windTileLeft_129
+  - first:
+      213: 1068773842245555091
+    second: windTileLeft_130
+  - first:
+      213: 4214232970767552246
+    second: windTileLeft_131
+  - first:
+      213: -2387789240967173269
+    second: windTileLeft_132
+  - first:
+      213: -4746210005933085629
+    second: windTileLeft_133
+  - first:
+      213: 4375241332757861317
+    second: windTileLeft_134
+  - first:
+      213: 40828341515915309
+    second: windTileLeft_135
+  - first:
+      213: -2890230815507070804
+    second: windTileLeft_136
+  - first:
+      213: -2324168470693607216
+    second: windTileLeft_137
+  - first:
+      213: 1822956395145189699
+    second: windTileLeft_138
+  - first:
+      213: -6979172174228485466
+    second: windTileLeft_139
+  - first:
+      213: 5080204565545642217
+    second: windTileLeft_140
+  - first:
+      213: -3460525563950559959
+    second: windTileLeft_141
+  - first:
+      213: -8177840673616170419
+    second: windTileLeft_142
+  - first:
+      213: -1128743159975342113
+    second: windTileLeft_143
+  - first:
+      213: -5084622176644764672
+    second: windTileLeft_144
+  - first:
+      213: 3497947409949019242
+    second: windTileLeft_145
+  - first:
+      213: 6219152941158821797
+    second: windTileLeft_146
+  - first:
+      213: -2262213878987381030
+    second: windTileLeft_147
+  - first:
+      213: -3874061755535103267
+    second: windTileLeft_148
+  - first:
+      213: 904016091548016616
+    second: windTileLeft_149
+  - first:
+      213: -37408094532811423
+    second: windTileLeft_150
+  - first:
+      213: -4704818927037692214
+    second: windTileLeft_151
+  - first:
+      213: -7154652639030370845
+    second: windTileLeft_152
+  - first:
+      213: -3628989404578019288
+    second: windTileLeft_153
+  - first:
+      213: -8795317579729545993
+    second: windTileLeft_154
+  - first:
+      213: -6216427135250331372
+    second: windTileLeft_155
+  - first:
+      213: -5012767173496847236
+    second: windTileLeft_156
+  - first:
+      213: -1147472528218864883
+    second: windTileLeft_157
+  - first:
+      213: 5158098509338679422
+    second: windTileLeft_158
+  - first:
+      213: -8848659113366034654
+    second: windTileLeft_159
+  - first:
+      213: 6946343759135802740
+    second: windTileLeft_160
+  - first:
+      213: 1504805023453612227
+    second: windTileLeft_161
+  - first:
+      213: 2576242622865745054
+    second: windTileLeft_162
+  - first:
+      213: 2752056489838244058
+    second: windTileLeft_163
+  - first:
+      213: -8296943312065774215
+    second: windTileLeft_164
+  - first:
+      213: 7137152185083992159
+    second: windTileLeft_165
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: windTileLeft_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb3348685ed3bd50800000000000000
+      internalID: 6751984737646230503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windTileLeft_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de03c960ca5b4ab0800000000000000
+      internalID: -5022821176947044649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windTileLeft_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6f4bea5f3b169c0800000000000000
+      internalID: -3935666731565648159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windTileLeft_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03f8fe24efdc61e0800000000000000
+      internalID: -2203139946557410546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windTileLeft_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2a49a81fabfd9d0800000000000000
+      internalID: -2747271701097831776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windTileLeft_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8c0b13ceec60700800000000000000
+      internalID: 506319521967032489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windTileLeft_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5b443f99d7707b0800000000000000
+      internalID: -5258095939766930016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windTileLeft_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0035fba052f8172f0800000000000000
+      internalID: -976842254905814272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windTileLeft_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e840147b3df5b190800000000000000
+      internalID: -7947167535633250078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windTileLeft_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e784e8ed226d7c10800000000000000
+      internalID: 2052904954471155687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windTileLeft_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8940e203bec851f30800000000000000
+      internalID: 4545694340653909144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windTileLeft_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3427e3999e068d0800000000000000
+      internalID: -2855025319365950471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windTileLeft_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123526e0d54ddb830800000000000000
+      internalID: 4088657532860650273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windTileLeft_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd8141a47d96c400800000000000000
+      internalID: 344135545787616703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windTileLeft_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a404a535f98b1490800000000000000
+      internalID: -7774468645465095007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windTileLeft_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c964bb868c11c2f10800000000000000
+      internalID: 2246189866599270044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bb2aa38eee6d4bc4ab9f88a1dca8e6b4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      windTileLeft_0: 6751984737646230503
+      windTileLeft_1: -5022821176947044649
+      windTileLeft_10: 4545694340653909144
+      windTileLeft_11: -2855025319365950471
+      windTileLeft_12: 4088657532860650273
+      windTileLeft_13: 344135545787616703
+      windTileLeft_14: -7774468645465095007
+      windTileLeft_15: 2246189866599270044
+      windTileLeft_2: -3935666731565648159
+      windTileLeft_3: -2203139946557410546
+      windTileLeft_4: -2747271701097831776
+      windTileLeft_5: 506319521967032489
+      windTileLeft_6: -5258095939766930016
+      windTileLeft_7: -976842254905814272
+      windTileLeft_8: -7947167535633250078
+      windTileLeft_9: 2052904954471155687
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

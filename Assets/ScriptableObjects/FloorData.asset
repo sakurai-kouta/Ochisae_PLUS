@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07e3e6bb216de8547b7e3e905d40ef96, type: 3}
+  m_Name: FloorData
+  m_EditorClassIdentifier: 
+  floors:
+  - floorName: "1F \u30A8\u30F3\u30C8\u30E9\u30F3\u30B9"
+    floorName_EN: 1F Entrance
+    minHeight: 0
+  - floorName: "2F \u30AD\u30E3\u30C3\u30C8\u30A6\u30A9\u30FC\u30AF"
+    floorName_EN: 2F Catwalk
+    minHeight: 15
+  - floorName: "3F \u5854\u5165\u53E3"
+    floorName_EN: 3F Gate of Tower
+    minHeight: 30
+  - floorName: "4F \u58541"
+    floorName_EN: 4F Tower1
+    minHeight: 45
+  - floorName: "5F \u58542"
+    floorName_EN: 5F Tower2
+    minHeight: 60
+  - floorName: "6F \u6148\u60B2\u306E\u9593"
+    floorName_EN: 6F Floor of Mercy
+    minHeight: 75
+  - floorName: "7F \u6C37\u5E8A"
+    floorName_EN: 7F Ice
+    minHeight: 90
+  - floorName: "8F \u5E83\u9593"
+    floorName_EN: 8F Hall
+    minHeight: 105
+  - floorName: "9F \u6881\u6E21\u308A"
+    floorName_EN: 9F Cross the Beam
+    minHeight: 120
+  - floorName: "10F \u5C0F\u7A93"
+    floorName_EN: 10F Windw
+    minHeight: 135
+  - floorName: "11F \u4F11\u61A9\u6240"
+    floorName_EN: 11F Restroom
+    minHeight: 150
+  - floorName: "12F \u5D29\u308C\u305F\u8DB3\u5834"
+    floorName_EN: 12F The scaffolding collapses
+    minHeight: 165
+  - floorName: "13F \u5D29\u308C\u305F\u3046\u3048\u306B\u5F3E\u3080\u8DB3\u5834"
+    floorName_EN: 13F The scaffolding collapses and bounces
+    minHeight: 180
+  - floorName: "14F \u8E0A\u308A\u5834"
+    floorName_EN: 14F Landing space
+    minHeight: 195
+  - floorName: "15F \u5927\u5439\u304D\u629C\u3051\u30FB\u6700\u4E0B\u5C64"
+    floorName_EN: 15F Atrium, Lowest floor.
+    minHeight: 210
+  - floorName: "16F \u5D29\u308C\u305F\u3046\u3048\u306B\u5F3E\u3080\u3057\u6ED1\u308B\u8DB3\u5834"
+    floorName_EN: 16F The scaffolding collapses, bounces, and slides
+    minHeight: 225
+  - floorName: "17F \u6700\u5F8C\u306E\u8A66\u7DF4"
+    floorName_EN: 17F Final Trial
+    minHeight: 240
+  - floorName: "18F \u4ECA\u5EA6\u3053\u305D\u6700\u5F8C\u306E\u8A66\u7DF4"
+    floorName_EN: 18F It's a Final Trial
+    minHeight: 255
+  - floorName: "19F \u5927\u968E\u6BB5"
+    floorName_EN: 19F Grand Staircase
+    minHeight: 270
+  - floorName: "20F \u9802"
+    floorName_EN: 20F Top
+    minHeight: 285
+  - floorName: "E1F \u6C34\u6CA1\u4E2D"
+    floorName_EN: E1F Submerged
+    minHeight: 315
+  - floorName: "E2F \u6C34\u4E2D\u30AD\u30E3\u30C3\u30C8\u30A6\u30A9\u30FC\u30AF"
+    floorName_EN: E2F Submerged Catwalk
+    minHeight: 330
+  - floorName: "E3F \u30ED\u30C3\u30AF\u30AF\u30E9\u30A4\u30DF\u30F3\u30B0"
+    floorName_EN: E3F Rock climbing
+    minHeight: 345
+  - floorName: "E4F \u9006\u6C34\u306E\u6C60"
+    floorName_EN: E4F Ascending Pond
+    minHeight: 360
+  - floorName: "E5F \u5D29\u58CA\u4E2D\u306E\u5854"
+    floorName_EN: E5F Collapsing Tower
+    minHeight: 375
+  - floorName: "E6F \u6D41\u6C37\u767B\u308A"
+    floorName_EN: E6F Climbing drift ice
+    minHeight: 390
+  - floorName: "E7F \u98A8\u96EA\u6CE8\u610F\uFF01"
+    floorName_EN: E7F Beware of Wind and Snow!
+    minHeight: 405
+  - floorName: "E8F \u306A\u3093\u304B\u3053\u306E\u8FBA\u5BD2\u304F\u306A\u3044\uFF1F"
+    floorName_EN: E8F Isn't it a bit cold around here?
+    minHeight: 420
+  - floorName: "E9F \u6881\u6E21\u308A...\u6881\u3069\u3053\uFF1F"
+    floorName_EN: E9F Where is the beam?
+    minHeight: 435
+  - floorName: "E10F \u66B4\u98A8\u57DF"
+    floorName_EN: E10F STORM
+    minHeight: 450
+  - floorName: "E11F \u98A8\u306B\u4E57\u308C"
+    floorName_EN: E11F Ride the Wind
+    minHeight: 465
+  - floorName: "E12F \u7D20\u6F5C\u308A1"
+    floorName_EN: E13F Free dving1
+    minHeight: 480
+  - floorName: "E13F \u7D20\u6F5C\u308A2"
+    floorName_EN: E13F Free dving2
+    minHeight: 495
+  - floorName: "E14F \u6EDD"
+    floorName_EN: E14F Waterfall
+    minHeight: 510
+  - floorName: "E15F \u30B9\u30C6\u30C3\u30D7\u30A2\u30C3\u30D7"
+    floorName_EN: E15F Step up
+    minHeight: 525
+  - floorName: "E16F \u30D9\u30EB\u30C8\u30B3\u30F3\u30D9\u30A2"
+    floorName_EN: E16F conveyor belt
+    minHeight: 540
+  - floorName: "E17F \u304A\u305D\u3089\u304F\u6700\u5F8C\u306E\u8A66\u7DF4"
+    floorName_EN: E17F Perhaps the final trial
+    minHeight: 555
+  - floorName: "E18F \u6B63\u771F\u6B63\u9298\u6700\u5F8C\u306E\u8A66\u7DF4"
+    floorName_EN: E18F The true final trial
+    minHeight: 570
+  - floorName: "E19F \u6EB6\u3051\u3061\u3083\u3063\u305F\u5927\u968E\u6BB5"
+    floorName_EN: E19F The melted grand staircase
+    minHeight: 585
+  - floorName: "E20F \u9802\u70B9"
+    floorName_EN: E20F Apex
+    minHeight: 600

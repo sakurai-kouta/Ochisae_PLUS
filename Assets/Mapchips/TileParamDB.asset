@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fb085fd8cd22b64bb18a7490d12cd21, type: 3}
+  m_Name: TileParamDB
+  m_EditorClassIdentifier: 
+  tilePramData:
+  - tile: {fileID: 11400000, guid: 4aff6d9f1eee8d941abd32ee69c7c153, type: 2}
+    friction: 1
+    liftSpeed: 0
+    bounce:
+    - 0
+    - 1
+    - 1
+    - 1
+  - tile: {fileID: 11400000, guid: 6522c08e6b0884f49bcc45cdb27d08a7, type: 2}
+    friction: 0
+    liftSpeed: 0
+    bounce:
+    - 0
+    - 1
+    - 1
+    - 1
+  - tile: {fileID: 11400000, guid: ed827b9ee40d7e7478de9b2e9a29643d, type: 2}
+    friction: 0
+    liftSpeed: 0
+    bounce:
+    - 1
+    - 1
+    - 1
+    - 1
+  - tile: {fileID: 11400000, guid: b900abe0119df5f4d80f48a3bc1f8330, type: 2}
+    friction: 1
+    liftSpeed: 1
+    bounce:
+    - 0
+    - 1
+    - 1
+    - 1
+  - tile: {fileID: 11400000, guid: 26b5b911c3727d845aa184f83d03b9df, type: 2}
+    friction: 1
+    liftSpeed: -1
+    bounce:
+    - 0
+    - 1
+    - 1
+    - 1

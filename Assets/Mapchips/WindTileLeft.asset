@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: WindTileLeft
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -2203139946557410546, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
+  - {fileID: -3935666731565648159, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
+  - {fileID: -5022821176947044649, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
+  - {fileID: 6751984737646230503, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
+  - {fileID: -976842254905814272, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
+  - {fileID: -5258095939766930016, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
+  - {fileID: 506319521967032489, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
+  - {fileID: -2747271701097831776, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
+  - {fileID: -2855025319365950471, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
+  - {fileID: 4545694340653909144, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
+  - {fileID: 2052904954471155687, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
+  - {fileID: -7947167535633250078, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
+  - {fileID: 2246189866599270044, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
+  - {fileID: -7774468645465095007, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
+  - {fileID: 344135545787616703, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
+  - {fileID: 4088657532860650273, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
+  m_MinSpeed: 20
+  m_MaxSpeed: 20
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 2
+  m_TileAnimationFlags: 0
