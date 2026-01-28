@@ -14,6 +14,7 @@ public class SEPlayer : MonoBehaviour
     [SerializeField] private AudioClip seClip_closeConfig;
     [SerializeField] private AudioClip seClip_saveConfig;
     [SerializeField] private AudioClip seClip_returnHideout;
+    [SerializeField] private AudioClip seClip_toggle;
 
     public void PlayJump()
     {
@@ -58,6 +59,10 @@ public class SEPlayer : MonoBehaviour
     public void PlayReturnHideout()
     {
         audioSource.PlayOneShot(seClip_returnHideout);
+    }
+    public void PlayToggle()
+    {
+        audioSource.PlayOneShot(seClip_toggle);
     }
     public void Stop()
     {

@@ -201,6 +201,7 @@ public class ConfigMenuController : MonoBehaviour
     private void OnLanguageToggleChanged(bool value)
     {
         isEnglish = value;
+        sePlayer.PlayToggle();
 
         if (isEnglish)
             ChangeLanguageEnglish();
@@ -210,10 +211,12 @@ public class ConfigMenuController : MonoBehaviour
     private void OnWindowModeToggleChanged(bool value)
     {
         isWindow = value;
+        sePlayer.PlayToggle();
     }
     private void OnEasyModeToggleChanged(bool value)
     {
         isEasy = value;
+        sePlayer.PlayToggle();
     }
 
     // =====================
