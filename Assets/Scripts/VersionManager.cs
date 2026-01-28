@@ -5,7 +5,7 @@ public static class VersionManager
     // 手動で管理するベースバージョン
     public const string BaseVersion = "ver.0.00";
     // 体験版の場合はtrueにしておくこと。
-    public const bool IsTrial = false;
+    public const bool IsTrial = true;
 
     // ビルド時に上書きされる
     private static string buildVersion = BaseVersion;

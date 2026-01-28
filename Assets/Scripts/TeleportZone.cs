@@ -11,11 +11,16 @@ public class TeleportZone : MonoBehaviour
     }
 
     [Header("Teleport Settings")]
-//    [SerializeField] private Vector3 teleportPosition;
     [SerializeField] private float requiredTime = 2.0f;
     [SerializeField] private TeleportPosIndex teleportPosition = TeleportPosIndex.HIDEOUT;
 
     private float stayTimer = 0f;
+    private GuiController guiController;
+
+    private void Start()
+    {
+        guiController = FindAnyObjectByType<GuiController>();
+    }
 
     void OnTriggerStay2D(Collider2D other)
     {
@@ -52,6 +57,7 @@ public class TeleportZone : MonoBehaviour
 
     private void Teleport(Collider2D player)
     {
+        // プレイヤーの移動
         PlayerController pc = player.GetComponent<PlayerController>();
         switch (teleportPosition) 
         {
@@ -67,6 +73,8 @@ public class TeleportZone : MonoBehaviour
             default:
                 break;
         }
+        // ざこモードが有効なら、ざこマークをGUI上に表示する。
+        guiController.UpdateZakoMark();
 
         // UIリセット
         PlayerTeleportUI ui = player.GetComponent<PlayerTeleportUI>();

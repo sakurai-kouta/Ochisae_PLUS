@@ -28,20 +28,11 @@ public class CheckPointLineController : MonoBehaviour
             {
                 if (rb.linearVelocity.y > 0)
                 {
-                    /*
-                    string floorName;
-                    if (ConfigMenuController.IsEnglish) 
-                    {
-                        floorName = "Reached Floor\n" + floorData.GetFloorName_EN(transform.position.y);
-                    }
-                    else
-                    {
-                        floorName = "ç≈çÇìûíBäK\n" + floorData.GetFloorName(transform.position.y);
-                    }
-                    stageTitleView.SetText(floorName);
-                    */
                     stageTitleView.UpdateText(transform.position.y);
-                    stageRuntimeData.AddCheckpoint(1);
+                    if (ConfigMenuController.IsEasy)
+                    {
+                        stageRuntimeData.AddCheckpoint(1);
+                    }
                     sePlayer.PlayGetItem();
                     BGMManager.Instance?.UpdateHeight(transform.position.y);
                     gameObject.SetActive(false);

@@ -3,10 +3,11 @@ using TMPro;
 public class GuiController : MonoBehaviour
 {
     [SerializeField] private TextMeshProUGUI howToText;
-    
+    [SerializeField] private GameObject zakoMark;
+    [SerializeField] private ConfigMenuController configMenuController;
+
     void Start()
     {
-        Debug.Log("IsEnglish = " + ConfigMenuController.IsEnglish);
         if (ConfigMenuController.IsEnglish) 
         {
             howToText.text = "<color=#FFC345>【HowTo】</color>\r\n" +
@@ -22,6 +23,25 @@ public class GuiController : MonoBehaviour
                 "<color=#FF4576>C</color>キー ... ﾁｪｯｸﾎﾟｲﾝﾄ<color=#FF4576>設置</color>\r\n" +
                 "<color=#45FF7C>Z</color>キー ... ﾁｪｯｸﾎﾟｲﾝﾄ<color=#45FF7C>帰還</color>\r\n" +
                 "<color=#8BAAFF>Esc</color>/右ｸﾘｯｸ ... メニュー";
+        }
+        zakoMark.SetActive(ConfigMenuController.IsPreEasy);
+    }
+
+    public void UpdateZakoMark()
+    {
+        if (zakoMark == null) return;
+        zakoMark.SetActive(ConfigMenuController.IsEasy);
+        ConfigMenuController.IsPreEasy = ConfigMenuController.IsEasy;
+        configMenuController.SaveConfigData();
+    }
+    public void UpdateZakoMarkRuntime()
+    {
+        if (zakoMark == null) return;
+
+        if (ConfigMenuController.IsEasy)
+        {
+            zakoMark.SetActive(true);
+            ConfigMenuController.IsPreEasy = true;
         }
     }
 }

@@ -5,6 +5,9 @@ TextureImporter:
   - first:
       213: -5611426751876046762
     second: Background_Clear_Ura_0
+  - first:
+      213: 1787075451906433331
+    second: Background_Clear_Ura_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -129,20 +132,20 @@ TextureImporter:
       name: Background_Clear_Ura_0
       rect:
         serializedVersion: 2
-        x: 447
+        x: 0
         y: 0
-        width: 813
-        height: 846
+        width: 1280
+        height: 960
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 650ed4b89153022b0800000000000000
-      internalID: -5611426751876046762
+      spriteID: f4da1d25afac9f14aad578eab9b28521
+      internalID: -194212904
       vertices: []
       indices: 
       edges: []
@@ -151,7 +154,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1c9fc12799ba3e348a10c01fa386e912
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +164,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Background_Clear_Ura_0: -5611426751876046762
+      Background_Clear_Ura_0: -194212904
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

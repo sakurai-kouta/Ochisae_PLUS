@@ -33,6 +33,8 @@ public class PlayerController : MonoBehaviour
     private Animator animator;
     private float sePlayTimer;
     private CameraCellFollow ccf;
+    private GuiController guiController;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -49,6 +51,7 @@ public class PlayerController : MonoBehaviour
         ccf = FindAnyObjectByType<CameraCellFollow>();
         BGMManager.Instance?.UpdateHeight(transform.position.y);
         stageTitleView.UpdateText(transform.position.y);
+        guiController = FindAnyObjectByType<GuiController>();
     }
 
     private void OnClickStart(InputAction.CallbackContext obj)
@@ -227,4 +230,13 @@ public class PlayerController : MonoBehaviour
         BGMManager.Instance?.UpdateHeight(transform.position.y);
         stageRuntimeData.InvalidCheckpoint();
     }
+    void OnDestroy()
+    {
+        if (_interactInput != null)
+        {
+            _interactInput.started -= OnClickStart;
+            _interactInput.canceled -= OnClickEnd;
+        }
+    }
+
 }

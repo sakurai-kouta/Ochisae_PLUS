@@ -73,6 +73,19 @@ public class Checkpoint : MonoBehaviour
             );
         }
     }
+    void OnDestroy()
+    {
+        if (interactInput_PutCheckpoint != null)
+        {
+            interactInput_PutCheckpoint.started -= OnPushStart_PutCheckpoint;
+            interactInput_PutCheckpoint.canceled -= OnPushEnd_PutCheckpoint;
+        }
+        if (interactInput_ReturnCheckpoint != null)
+        {
+            interactInput_ReturnCheckpoint.started -= OnPushStart_ReturnCheckpoint;
+            interactInput_ReturnCheckpoint.canceled -= OnPushEnd_ReturnCheckpoint;
+        }
+    }
 
     private void Update()
     {

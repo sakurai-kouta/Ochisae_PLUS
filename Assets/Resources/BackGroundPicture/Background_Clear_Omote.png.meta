@@ -5,6 +5,9 @@ TextureImporter:
   - first:
       213: -1356686939283401544
     second: Background_Clear_Omote_0
+  - first:
+      213: -8782572314029343841
+    second: Background_Clear_Omote_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -129,20 +132,20 @@ TextureImporter:
       name: Background_Clear_Omote_0
       rect:
         serializedVersion: 2
-        x: 447
+        x: 0
         y: 0
-        width: 813
-        height: 846
+        width: 1280
+        height: 960
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8b4d990ba641c2de0800000000000000
-      internalID: -1356686939283401544
+      spriteID: c55e2e6526a3a9e4aafd67d54adc776e
+      internalID: 1931990408
       vertices: []
       indices: 
       edges: []
@@ -151,7 +154,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 49112f74b84b96f4a8d0550998a044ae
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +164,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Background_Clear_Omote_0: -1356686939283401544
+      Background_Clear_Omote_0: 1931990408
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
