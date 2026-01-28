@@ -218,15 +218,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC_Poyo (4)
       objectReference: {fileID: 0}
-    - target: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
-      propertyPath: serifEnglish
-      value: "How\u2019d I get up here? I jumped."
-      objectReference: {fileID: 0}
-    - target: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
-      propertyPath: serifJapanese
-      value: "\u3069\u3046\u3084\u3063\u3066\u4E0A\u3063\u305F\u304B\u3060\u3063\u3066\uFF1F
-        \u8DF3\u3093\u3060\u3093\u3060\u3088\u3002"
-      objectReference: {fileID: 0}
     - target: {fileID: 6256986999660779462, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 26.57
@@ -2452,16 +2443,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC_Poyo (1)
       objectReference: {fileID: 0}
-    - target: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
-      propertyPath: serifEnglish
-      value: "You again? Still lost, huh. \u2026Looks like you can\u2019t climb it
-        from this side."
-      objectReference: {fileID: 0}
-    - target: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
-      propertyPath: serifJapanese
-      value: "\u3042\u3093\u305F\u304B\u3001\u307E\u3060\u8FF7\u3063\u3066\u3093\u306E\u304B\u3088\u3002
-        ...\u3053\u3063\u3061\u5074\u304B\u3089\u306F\u767B\u308C\u306A\u3044\u307F\u305F\u3044\u3060\u306A\u3002"
-      objectReference: {fileID: 0}
     - target: {fileID: 6256986999660779462, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 20.5
@@ -2945,14 +2926,6 @@ PrefabInstance:
     - target: {fileID: 3836924450254937679, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
       propertyPath: m_Name
       value: NPC_Poyo (6)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
-      propertyPath: serifEnglish
-      value: Good work making it this far.
-      objectReference: {fileID: 0}
-    - target: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
-      propertyPath: serifJapanese
-      value: "\u3053\u3053\u307E\u3067\u3054\u82E6\u52B4\u69D8\u3060\u3063\u305F\u306A\u3002"
       objectReference: {fileID: 0}
     - target: {fileID: 6256986999660779462, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5997,7 +5970,7 @@ Tilemap:
       - {fileID: -7774468645465095007, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 344135545787616703, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 4088657532860650273, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
-      m_AnimationSpeed: 20
+      m_AnimationSpeed: 20.000002
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 10, y: 398, z: 0}
@@ -6503,7 +6476,7 @@ Tilemap:
       - {fileID: 234020705, guid: 2d999c422e7a4d84bb8b417e9dd6e581, type: 3}
       - {fileID: -383056949, guid: 2d999c422e7a4d84bb8b417e9dd6e581, type: 3}
       - {fileID: 2068031634, guid: 2d999c422e7a4d84bb8b417e9dd6e581, type: 3}
-      m_AnimationSpeed: 20.000002
+      m_AnimationSpeed: 20
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 8, y: 405, z: 0}
@@ -7193,7 +7166,7 @@ Tilemap:
       - {fileID: -7774468645465095007, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 344135545787616703, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 4088657532860650273, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
-      m_AnimationSpeed: 20
+      m_AnimationSpeed: 20.000002
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: -1, y: 441, z: 0}
@@ -7354,7 +7327,7 @@ Tilemap:
       - {fileID: -7774468645465095007, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 344135545787616703, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 4088657532860650273, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
-      m_AnimationSpeed: 20.000002
+      m_AnimationSpeed: 20
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 1, y: 442, z: 0}
@@ -8113,7 +8086,7 @@ Tilemap:
       - {fileID: -7774468645465095007, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 344135545787616703, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 4088657532860650273, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
-      m_AnimationSpeed: 20.000002
+      m_AnimationSpeed: 20
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 1, y: 449, z: 0}
@@ -8596,7 +8569,7 @@ Tilemap:
       - {fileID: 234020705, guid: 2d999c422e7a4d84bb8b417e9dd6e581, type: 3}
       - {fileID: -383056949, guid: 2d999c422e7a4d84bb8b417e9dd6e581, type: 3}
       - {fileID: 2068031634, guid: 2d999c422e7a4d84bb8b417e9dd6e581, type: 3}
-      m_AnimationSpeed: 20.000002
+      m_AnimationSpeed: 20
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 1, y: 454, z: 0}
@@ -8780,7 +8753,7 @@ Tilemap:
       - {fileID: 234020705, guid: 2d999c422e7a4d84bb8b417e9dd6e581, type: 3}
       - {fileID: -383056949, guid: 2d999c422e7a4d84bb8b417e9dd6e581, type: 3}
       - {fileID: 2068031634, guid: 2d999c422e7a4d84bb8b417e9dd6e581, type: 3}
-      m_AnimationSpeed: 20
+      m_AnimationSpeed: 20.000002
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: -1, y: 456, z: 0}
@@ -9033,7 +9006,7 @@ Tilemap:
       - {fileID: -7774468645465095007, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 344135545787616703, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 4088657532860650273, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
-      m_AnimationSpeed: 20.000002
+      m_AnimationSpeed: 20
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 8, y: 462, z: 0}
@@ -9930,7 +9903,7 @@ Tilemap:
       - {fileID: -7774468645465095007, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 344135545787616703, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 4088657532860650273, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
-      m_AnimationSpeed: 20.000002
+      m_AnimationSpeed: 20
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 9, y: 469, z: 0}
@@ -10390,7 +10363,7 @@ Tilemap:
       - {fileID: -7774468645465095007, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 344135545787616703, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 4088657532860650273, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
-      m_AnimationSpeed: 20
+      m_AnimationSpeed: 20.000002
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 1, y: 471, z: 0}
@@ -10505,7 +10478,7 @@ Tilemap:
       - {fileID: -7774468645465095007, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 344135545787616703, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 4088657532860650273, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
-      m_AnimationSpeed: 20
+      m_AnimationSpeed: 20.000002
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 8, y: 471, z: 0}
@@ -10643,7 +10616,7 @@ Tilemap:
       - {fileID: 234020705, guid: 2d999c422e7a4d84bb8b417e9dd6e581, type: 3}
       - {fileID: -383056949, guid: 2d999c422e7a4d84bb8b417e9dd6e581, type: 3}
       - {fileID: 2068031634, guid: 2d999c422e7a4d84bb8b417e9dd6e581, type: 3}
-      m_AnimationSpeed: 20
+      m_AnimationSpeed: 20.000002
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 8, y: 520, z: 0}
@@ -10850,7 +10823,7 @@ Tilemap:
       - {fileID: -7774468645465095007, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 344135545787616703, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 4088657532860650273, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
-      m_AnimationSpeed: 20
+      m_AnimationSpeed: 20.000002
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 11, y: 521, z: 0}
@@ -11172,7 +11145,7 @@ Tilemap:
       - {fileID: -7774468645465095007, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 344135545787616703, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 4088657532860650273, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
-      m_AnimationSpeed: 20.000002
+      m_AnimationSpeed: 20
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 13, y: 523, z: 0}
@@ -11494,7 +11467,7 @@ Tilemap:
       - {fileID: 234020705, guid: 2d999c422e7a4d84bb8b417e9dd6e581, type: 3}
       - {fileID: -383056949, guid: 2d999c422e7a4d84bb8b417e9dd6e581, type: 3}
       - {fileID: 2068031634, guid: 2d999c422e7a4d84bb8b417e9dd6e581, type: 3}
-      m_AnimationSpeed: 20
+      m_AnimationSpeed: 20.000002
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 3, y: 566, z: 0}
@@ -11586,7 +11559,7 @@ Tilemap:
       - {fileID: 234020705, guid: 2d999c422e7a4d84bb8b417e9dd6e581, type: 3}
       - {fileID: -383056949, guid: 2d999c422e7a4d84bb8b417e9dd6e581, type: 3}
       - {fileID: 2068031634, guid: 2d999c422e7a4d84bb8b417e9dd6e581, type: 3}
-      m_AnimationSpeed: 20
+      m_AnimationSpeed: 20.000002
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 2, y: 567, z: 0}
@@ -11609,7 +11582,7 @@ Tilemap:
       - {fileID: 234020705, guid: 2d999c422e7a4d84bb8b417e9dd6e581, type: 3}
       - {fileID: -383056949, guid: 2d999c422e7a4d84bb8b417e9dd6e581, type: 3}
       - {fileID: 2068031634, guid: 2d999c422e7a4d84bb8b417e9dd6e581, type: 3}
-      m_AnimationSpeed: 20.000002
+      m_AnimationSpeed: 20
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 3, y: 567, z: 0}
@@ -11839,7 +11812,7 @@ Tilemap:
       - {fileID: -7774468645465095007, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 344135545787616703, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
       - {fileID: 4088657532860650273, guid: 1a2b8fc96776db84db3c774dca77beb9, type: 3}
-      m_AnimationSpeed: 20
+      m_AnimationSpeed: 20.000002
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 10, y: 572, z: 0}
@@ -12557,6 +12530,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7577309642872933086, guid: 23a11cd440591c24093b69c15c7757a1, type: 3}
   m_PrefabInstance: {fileID: 423158311}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &424471840 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
+  m_PrefabInstance: {fileID: 381139624}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &425215080 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5249778627662638789, guid: 23a11cd440591c24093b69c15c7757a1, type: 3}
@@ -12857,16 +12841,6 @@ PrefabInstance:
     - target: {fileID: 3836924450254937679, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
       propertyPath: m_Name
       value: NPC_Poyo (2)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
-      propertyPath: serifEnglish
-      value: "You too, huh? Came all the way out here looking for something? \u2026Got
-        lost? Heh. That\u2019s a new one."
-      objectReference: {fileID: 0}
-    - target: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
-      propertyPath: serifJapanese
-      value: "\u3042\u3093\u305F\u3082\u30B3\u30B3\u306B\u4F55\u304B\u3092\u63A2\u3057\u306B\u6765\u305F\u30AF\u30C1\u304B\u3044\uFF1F
-        ...\u9053\u306B\u8FF7\u3063\u305F\uFF1F\u3000\u306A\u3093\u3058\u3083\u305D\u308A\u3083\u3002"
       objectReference: {fileID: 0}
     - target: {fileID: 6256986999660779462, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13535,14 +13509,6 @@ PrefabInstance:
     - target: {fileID: 7053187024442528796, guid: ede05677687c8184d9484569717a2b6e, type: 3}
       propertyPath: m_Name
       value: NPC_Kuro (3)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifEnglish
-      value: "This tower doesn\u2019t let you see outside much, does it?"
-      objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifJapanese
-      value: "\u3053\u3063\u3061\u306E\u5854\u306F\u3001\u3042\u3093\u307E\u308A\u5916\u304C\u898B\u3048\u306A\u3044\u306D\u3002"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15150,17 +15116,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC_Kuro (6)
       objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifEnglish
-      value: "I made it to the top, but\u2026 which way should I go? The right side
-        looks like the exit, but\u2026 There\u2019s one last yellow thing on the
-        left\u2026"
-      objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifJapanese
-      value: "\u9802\u4E0A\u306B\u6765\u305F\u3051\u3069\u3001\u3069\u3063\u3061\u306B\u884C\u3051\u3070\u3044\u3044\u3093\u3060\u308D...\u3002
-        \u53F3\u304C\u51FA\u53E3\u3063\u307D\u3044\u3051\u3069\u3001\u5DE6\u306B\u6700\u5F8C\u306E\u9EC4\u8272\u3044\u306E\u304C\u3042\u308B\u3057...\u3002"
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15536,16 +15491,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC_Poyo (5)
       objectReference: {fileID: 0}
-    - target: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
-      propertyPath: serifEnglish
-      value: "Funny thing is, my legs froze up once I got here. I\u2019m just one
-        step short."
-      objectReference: {fileID: 0}
-    - target: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
-      propertyPath: serifJapanese
-      value: "\u3053\u3053\u306B\u6765\u3066\u3001\u8DB3\u304C\u7AE6\u3093\u3058\u307E\u3063\u305F\u3088\u3002
-        \u3042\u3068\u4E00\u6B69\u306A\u3093\u3060\u3051\u3069\u306A\u3002"
-      objectReference: {fileID: 0}
     - target: {fileID: 6256986999660779462, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 19.65
@@ -15596,6 +15541,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6256986999660779462, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
   m_PrefabInstance: {fileID: 681565693}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &681565695 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
+  m_PrefabInstance: {fileID: 681565693}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &731996785
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16496,14 +16452,6 @@ PrefabInstance:
     - target: {fileID: 7053187024442528796, guid: ede05677687c8184d9484569717a2b6e, type: 3}
       propertyPath: m_Name
       value: NPC_Kuro (4)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifEnglish
-      value: Waterfaaaaaaaall!
-      objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifJapanese
-      value: "\u6EDD\u884C\u3060\u30FC\uFF01"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19017,16 +18965,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC_Kuro (4)
       objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifEnglish
-      value: "Jumping from here would feel amazing\u2026 I wonder how many floors
-        it has."
-      objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifJapanese
-      value: "\u307B\u3093\u3068\u306B\u5927\u304D\u306A\u5854\u3060\u306D\uFF01
-        \u4F55\u968E\u307E\u3067\u3042\u308B\u3093\u3060\u308D\u3046\u3002"
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19037,6 +18975,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2564570001896415476, guid: ede05677687c8184d9484569717a2b6e, type: 3}
   m_PrefabInstance: {fileID: 1120539139}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1120539141 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+  m_PrefabInstance: {fileID: 1120539139}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1126336338
 GameObject:
   m_ObjectHideFlags: 0
@@ -19129,6 +19078,17 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 5249778627662638789, guid: 23a11cd440591c24093b69c15c7757a1, type: 3}
   m_PrefabInstance: {fileID: 1301319491}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1132635336 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+  m_PrefabInstance: {fileID: 663860972}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1140641727
 GameObject:
   m_ObjectHideFlags: 0
@@ -19308,6 +19268,17 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 5249778627662638789, guid: 23a11cd440591c24093b69c15c7757a1, type: 3}
   m_PrefabInstance: {fileID: 1001964999}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1155545562 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
+  m_PrefabInstance: {fileID: 295610155}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1156290626 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5249778627662638789, guid: 23a11cd440591c24093b69c15c7757a1, type: 3}
@@ -20208,14 +20179,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC_Poyo (2)
       objectReference: {fileID: 0}
-    - target: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
-      propertyPath: serifEnglish
-      value: "Sheesh\u2026 Why the hell is there wind blowing inside a tower?"
-      objectReference: {fileID: 0}
-    - target: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
-      propertyPath: serifJapanese
-      value: "\u307E\u3063\u305F\u304F\u3002 \u306A\u3093\u3067\u5854\u306E\u4E2D\u3067\u98A8\u304C\u5439\u3044\u3066\u308B\u3093\u3060\uFF1F"
-      objectReference: {fileID: 0}
     - target: {fileID: 6256986999660779462, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 14
@@ -20266,6 +20229,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6256986999660779462, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
   m_PrefabInstance: {fileID: 1247683937}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1247683939 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
+  m_PrefabInstance: {fileID: 1247683937}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1248910568 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5249778627662638789, guid: 23a11cd440591c24093b69c15c7757a1, type: 3}
@@ -20652,6 +20626,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7577309642872933086, guid: 23a11cd440591c24093b69c15c7757a1, type: 3}
   m_PrefabInstance: {fileID: 1263968832}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1265723676 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+  m_PrefabInstance: {fileID: 505336833}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1270580403
 GameObject:
   m_ObjectHideFlags: 0
@@ -22276,6 +22261,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7577309642872933086, guid: 23a11cd440591c24093b69c15c7757a1, type: 3}
   m_PrefabInstance: {fileID: 1343088425}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1352409708 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+  m_PrefabInstance: {fileID: 850033243}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1354698006
 GameObject:
   m_ObjectHideFlags: 0
@@ -22769,14 +22765,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC_Kuro (5)
       objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifEnglish
-      value: "Huh\u2026 how are you supposed to grab that?"
-      objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifJapanese
-      value: "\u3042\u308C\u3001\u3069\u3046\u3084\u3063\u3066\u53D6\u308B\u3093\u3060\u308D..."
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23122,16 +23110,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC_Poyo (5)
       objectReference: {fileID: 0}
-    - target: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
-      propertyPath: serifEnglish
-      value: "So we finally made it to the top, huh. The goal\u2019s to the right
-        \u2192."
-      objectReference: {fileID: 0}
-    - target: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
-      propertyPath: serifJapanese
-      value: "\u3084\u3063\u3068\u9802\u4E0A\u306B\u7740\u3044\u305F\u304B\u3002
-        \u30B4\u30FC\u30EB\u306F\u53F3->\u3060\u305C\u3002"
-      objectReference: {fileID: 0}
     - target: {fileID: 6256986999660779462, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 22
@@ -23182,6 +23160,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6256986999660779462, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
   m_PrefabInstance: {fileID: 1482235587}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1482235589 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
+  m_PrefabInstance: {fileID: 1482235587}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1498851276
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23393,6 +23382,17 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1505941242 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
+  m_PrefabInstance: {fileID: 6172811}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1508692006
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23535,6 +23535,145 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1517817428}
   m_CullTransparentMesh: 1
+--- !u!1 &1519817478
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1519817480}
+  - component: {fileID: 1519817479}
+  m_Layer: 0
+  m_Name: NPCSerifController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1519817479
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1519817478}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b1561c2f11637649a20772da839b89d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  npcList:
+  - npc: {fileID: 1745782625}
+    serif_JP: "\u3042\u308C\u3001\u524D\u306B\u3082\u4F1A\u3063\u305F\uFF1F"
+    serif_EN: "Wait\u2026 have we met before?"
+  - npc: {fileID: 1898278086}
+    serif_JP: "\u30C1\u30A7\u30C3\u30AF\u30DD\u30A4\u30F3\u30C8\u3092\u4F7F\u3046\u306E\u306F
+      2\u753B\u9762\u306B\u3064\u304D1\u500B\u304F\u3089\u3044\u304C\u826F\u3055\u305D\u3046\u3060\u3088\uFF01"
+    serif_EN: "Using checkpoints\u2026 about one every two screens sounds just right!"
+  - npc: {fileID: 1872896958}
+    serif_JP: "\u898B\u3066\u307F\u3066\uFF01\u3059\u3054\u304F\u9AD8\u3044\u3088\uFF01\u3000\u3053\u3053\u304B\u3089\u98DB\u3093\u3060\u3089\u6C17\u6301\u3061\u3044\u3044\u3060\u308D\u3046\u306A\u3041..."
+    serif_EN: "Look, look! It\u2019s really high! Jumping from here would feel amazing\u2026"
+  - npc: {fileID: 1120539141}
+    serif_JP: "\u307B\u3093\u3068\u306B\u5927\u304D\u306A\u5854\u3060\u306D\uFF01
+      \u4F55\u968E\u307E\u3067\u3042\u308B\u3093\u3060\u308D\u3046\u3002"
+    serif_EN: "Jumping from here would feel amazing\u2026 I wonder how many floors
+      it has."
+  - npc: {fileID: 1840381246}
+    serif_JP: "\u3042\u308C\u3001\u3069\u3046\u3084\u3063\u3066\u53D6\u308B\u3093\u3060\u308D..."
+    serif_EN: "Huh\u2026 how are you supposed to grab that?"
+  - npc: {fileID: 1132635336}
+    serif_JP: "\u9802\u4E0A\u306B\u6765\u305F\u3051\u3069\u3001\u3069\u3063\u3061\u306B\u884C\u3051\u3070\u3044\u3044\u3093\u3060\u308D...\u3002
+      \u53F3\u304C\u51FA\u53E3\u3063\u307D\u3044\u3051\u3069\u3001\u5DE6\u306B\u6700\u5F8C\u306E\u9EC4\u8272\u3044\u306E\u304C\u3042\u308B\u3057...\u3002"
+    serif_EN: "I made it to the top, but\u2026 which way should I go? The right side
+      looks like the exit, but\u2026 There\u2019s one last yellow thing on the left\u2026"
+  - npc: {fileID: 1607670558}
+    serif_JP: "\u9EC4\u8272\u3044\u3084\u3064\u3055\u3001\u3044\u3044\u3088\u3042\u308C\u3002
+      \u3042\u308C\u3055\u3048\u3042\u308C\u3070\u4F55\u5EA6\u3067\u3082\u3084\u308A\u76F4\u305B\u308B\u3093\u3060\u3002"
+    serif_EN: "That yellow thing\u2026 yeah, that one\u2019s useful. As long as you
+      have it, you can always start over."
+  - npc: {fileID: 1729343880}
+    serif_JP: "\u3042\u3093\u305F\u3082\u30B3\u30B3\u306B\u4F55\u304B\u3092\u63A2\u3057\u306B\u6765\u305F\u30AF\u30C1\u304B\u3044\uFF1F
+      ...\u9053\u306B\u8FF7\u3063\u305F\uFF1F\u3000\u306A\u3093\u3058\u3083\u305D\u308A\u3083\u3002"
+    serif_EN: "You too, huh? Came all the way out here looking for something? \u2026Got
+      lost? Heh. That\u2019s a new one."
+  - npc: {fileID: 1821454156}
+    serif_JP: "\u3082\u3046\u3069\u3053\u306B\u3082\u30AA\u30BF\u30AB\u30E9\u306F\u6B8B\u3063\u3066\u306A\u3055\u305D\u3046\u3060\u306A\u3002
+      \u7D50\u5C40\u3001\u305F\u3060\u306E\u5EC3\u589F\u306B\u8FF7\u3044\u8FBC\u3093\u3060\u3060\u3051\u304B\u3002"
+    serif_EN: "Looks like there\u2019s no treasure left anywhere. Guess we just wandered
+      into an old ruin after all."
+  - npc: {fileID: 1505941242}
+    serif_JP: "\u3069\u3046\u3084\u3063\u3066\u4E0A\u3063\u305F\u304B\u3060\u3063\u3066\uFF1F
+      \u8DF3\u3093\u3060\u3093\u3060\u3088\u3002"
+    serif_EN: "How\u2019d I get up here? I jumped."
+  - npc: {fileID: 681565695}
+    serif_JP: "\u3053\u3053\u306B\u6765\u3066\u3001\u8DB3\u304C\u7AE6\u3093\u3058\u307E\u3063\u305F\u3088\u3002
+      \u3042\u3068\u4E00\u6B69\u306A\u3093\u3060\u3051\u3069\u306A\u3002"
+    serif_EN: "Funny thing is, my legs froze up once I got here. I\u2019m just one
+      step short."
+  - npc: {fileID: 1673670566}
+    serif_JP: "\u3076\u304F\u3076\u304F\u3076\u304F...\u3002 \uFF08\u3053\u3093\u306A\u5834\u6240\u304C\u3042\u3063\u305F\u3093\u3060\u306D\uFF01\uFF09"
+    serif_EN: "Blub blub\u2026! (Whoa\u2026 there\u2019s a place like this down here!)"
+  - npc: {fileID: 2011838007}
+    serif_JP: "\u3046\u30FC\u3093\u3002 \u3069\u306E\u30EB\u30FC\u30C8\u3067\u767B\u308C\u3070\u3044\u3044\u306E\u304B\u306A\uFF1F"
+    serif_EN: "Hmm\u2026 Which route should we take to go up?"
+  - npc: {fileID: 1265723676}
+    serif_JP: "\u3053\u3063\u3061\u306E\u5854\u306F\u3001\u3042\u3093\u307E\u308A\u5916\u304C\u898B\u3048\u306A\u3044\u306D\u3002"
+    serif_EN: "This tower doesn\u2019t let you see outside much, does it?"
+  - npc: {fileID: 1352409708}
+    serif_JP: "\u6EDD\u884C\u3060\u30FC\uFF01"
+    serif_EN: Waterfaaaaaaaall!
+  - npc: {fileID: 1852834832}
+    serif_JP: "\u3059\u3054\u3044\u9AD8\u3044\u306D\uFF01 \u306F\u3084\u304F\u30B4\u30FC\u30EB\u306B\u884C\u3053\u3046\u3088\uFF01"
+    serif_EN: "It\u2019s soooo high! Let\u2019s hurry to the goal!"
+  - npc: {fileID: 2045540019}
+    serif_JP: "\u904A\u3093\u3067\u304F\u308C\u3066\u3042\u308A\u304C\u3068\uFF01"
+    serif_EN: Thanks for playing!
+  - npc: {fileID: 1155545562}
+    serif_JP: "\u3042\u3093\u305F\u304B\u3001\u307E\u3060\u8FF7\u3063\u3066\u3093\u306E\u304B\u3088\u3002
+      ...\u3053\u3063\u3061\u5074\u304B\u3089\u306F\u767B\u308C\u306A\u3044\u307F\u305F\u3044\u3060\u306A\u3002"
+    serif_EN: "You again? Still lost, huh. \u2026Looks like you can\u2019t climb
+      it from this side."
+  - npc: {fileID: 1247683939}
+    serif_JP: "\u307E\u3063\u305F\u304F\u3002 \u306A\u3093\u3067\u5854\u306E\u4E2D\u3067\u98A8\u304C\u5439\u3044\u3066\u308B\u3093\u3060\uFF1F"
+    serif_EN: "Sheesh\u2026 Why the hell is there wind blowing inside a tower?"
+  - npc: {fileID: 1589483249}
+    serif_JP: "\u9762\u5012\u306A\u5834\u6240\u3060\u306A\u3002 \u9EC4\u8272\u3044\u306E\u3092\u96C6\u3081\u3066\u304A\u3051\u3070\u3088\u304B\u3063\u305F\u305C\u3002"
+    serif_EN: "What a pain of a place. Should\u2019ve grabbed more of those yellow
+      things."
+  - npc: {fileID: 1866379033}
+    serif_JP: "\u3053\u3053\u304B\u3089\u5148\u306F\u843D\u3061\u7740\u304F\u6687\u3082\u306A\u3055\u305D\u3046\u3060\u306A\u3002"
+    serif_EN: "Doesn\u2019t look like we\u2019ll get a moment\u2019s rest past here."
+  - npc: {fileID: 1482235589}
+    serif_JP: "\u3084\u3063\u3068\u9802\u4E0A\u306B\u7740\u3044\u305F\u304B\u3002
+      \u30B4\u30FC\u30EB\u306F\u53F3->\u3060\u305C\u3002"
+    serif_EN: "So we finally made it to the top, huh. The goal\u2019s to the right
+      \u2192."
+  - npc: {fileID: 424471840}
+    serif_JP: "\u3053\u3053\u307E\u3067\u3054\u82E6\u52B4\u69D8\u3060\u3063\u305F\u306A\u3002"
+    serif_EN: Good work making it this far.
+  - npc: {fileID: 1713497578}
+    serif_JP: "\u3053\u308C\u306F\u30C6\u30B9\u30C8\u3060\u3088\uFF01\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042"
+    serif_EN: test
+  - npc: {fileID: 0}
+    serif_JP: 
+    serif_EN: 
+--- !u!4 &1519817480
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1519817478}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 11.866708, y: 633.36115, z: -0.04494187}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2140350511}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1532631469
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -77931,7 +78070,7 @@ Tilemap:
       - {fileID: -637337808, guid: 2c917cd75da33d04d971fbecb5a7bfc6, type: 3}
       - {fileID: 1663490219, guid: 2c917cd75da33d04d971fbecb5a7bfc6, type: 3}
       - {fileID: 795376394, guid: 2c917cd75da33d04d971fbecb5a7bfc6, type: 3}
-      m_AnimationSpeed: 10
+      m_AnimationSpeed: 10.000001
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 10, y: 282, z: 0}
@@ -78613,7 +78752,7 @@ Tilemap:
       - {fileID: 1753263524, guid: 3cbe885b45cfdd5409497a59958cbfe4, type: 3}
       - {fileID: -1862692486, guid: 3cbe885b45cfdd5409497a59958cbfe4, type: 3}
       - {fileID: -3443479288285530334, guid: 3cbe885b45cfdd5409497a59958cbfe4, type: 3}
-      m_AnimationSpeed: 10
+      m_AnimationSpeed: 10.000001
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 6, y: 540, z: 0}
@@ -78768,7 +78907,7 @@ Tilemap:
       - {fileID: -637337808, guid: 2c917cd75da33d04d971fbecb5a7bfc6, type: 3}
       - {fileID: 1663490219, guid: 2c917cd75da33d04d971fbecb5a7bfc6, type: 3}
       - {fileID: 795376394, guid: 2c917cd75da33d04d971fbecb5a7bfc6, type: 3}
-      m_AnimationSpeed: 10
+      m_AnimationSpeed: 10.000001
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 12, y: 540, z: 0}
@@ -79140,7 +79279,7 @@ Tilemap:
       - {fileID: 1753263524, guid: 3cbe885b45cfdd5409497a59958cbfe4, type: 3}
       - {fileID: -1862692486, guid: 3cbe885b45cfdd5409497a59958cbfe4, type: 3}
       - {fileID: -3443479288285530334, guid: 3cbe885b45cfdd5409497a59958cbfe4, type: 3}
-      m_AnimationSpeed: 10
+      m_AnimationSpeed: 10.000001
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 4, y: 560, z: 0}
@@ -79791,7 +79930,7 @@ Tilemap:
       - {fileID: -637337808, guid: 2c917cd75da33d04d971fbecb5a7bfc6, type: 3}
       - {fileID: 1663490219, guid: 2c917cd75da33d04d971fbecb5a7bfc6, type: 3}
       - {fileID: 795376394, guid: 2c917cd75da33d04d971fbecb5a7bfc6, type: 3}
-      m_AnimationSpeed: 10
+      m_AnimationSpeed: 10.000001
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 11, y: 597, z: 0}
@@ -80194,7 +80333,7 @@ Tilemap:
       - {fileID: -637337808, guid: 2c917cd75da33d04d971fbecb5a7bfc6, type: 3}
       - {fileID: 1663490219, guid: 2c917cd75da33d04d971fbecb5a7bfc6, type: 3}
       - {fileID: 795376394, guid: 2c917cd75da33d04d971fbecb5a7bfc6, type: 3}
-      m_AnimationSpeed: 10.000001
+      m_AnimationSpeed: 10
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 24, y: 597, z: 0}
@@ -88205,15 +88344,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC_Poyo (3)
       objectReference: {fileID: 0}
-    - target: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
-      propertyPath: serifEnglish
-      value: "What a pain of a place. Should\u2019ve grabbed more of those yellow
-        things."
-      objectReference: {fileID: 0}
-    - target: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
-      propertyPath: serifJapanese
-      value: "\u9762\u5012\u306A\u5834\u6240\u3060\u306A\u3002 \u9EC4\u8272\u3044\u306E\u3092\u96C6\u3081\u3066\u304A\u3051\u3070\u3088\u304B\u3063\u305F\u305C\u3002"
-      objectReference: {fileID: 0}
     - target: {fileID: 6256986999660779462, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 16
@@ -88264,6 +88394,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6256986999660779462, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
   m_PrefabInstance: {fileID: 1589483247}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1589483249 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
+  m_PrefabInstance: {fileID: 1589483247}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1593191133
 GameObject:
   m_ObjectHideFlags: 0
@@ -88413,6 +88554,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6256986999660779462, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
   m_PrefabInstance: {fileID: 1604716236}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1607670558 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
+  m_PrefabInstance: {fileID: 1604716236}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1618753797
 GameObject:
   m_ObjectHideFlags: 0
@@ -88619,14 +88771,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC_Kuro (6)
       objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifEnglish
-      value: Thanks for playing!
-      objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifJapanese
-      value: "\u904A\u3093\u3067\u304F\u308C\u3066\u3042\u308A\u304C\u3068\uFF01"
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -88674,6 +88818,7 @@ Transform:
   - {fileID: 1720530575}
   - {fileID: 538383986}
   - {fileID: 1087748124}
+  - {fileID: 2143088394}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1661200422 stripped
@@ -88733,14 +88878,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC_Kuro (1)
       objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifEnglish
-      value: "Blub blub\u2026! (Whoa\u2026 there\u2019s a place like this down here!)"
-      objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifJapanese
-      value: "\u3076\u304F\u3076\u304F\u3076\u304F...\u3002 \uFF08\u3053\u3093\u306A\u5834\u6240\u304C\u3042\u3063\u305F\u3093\u3060\u306D\uFF01\uFF09"
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -88751,6 +88888,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2564570001896415476, guid: ede05677687c8184d9484569717a2b6e, type: 3}
   m_PrefabInstance: {fileID: 1673670564}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1673670566 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+  m_PrefabInstance: {fileID: 1673670564}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1673676113
 GameObject:
   m_ObjectHideFlags: 0
@@ -89337,6 +89485,79 @@ Transform:
   - {fileID: 1343088426}
   m_Father: {fileID: 444588430}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1713497576
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2143088394}
+    m_Modifications:
+    - target: {fileID: 2564570001896415476, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 2564570001896415476, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 630.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2564570001896415476, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2564570001896415476, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2564570001896415476, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2564570001896415476, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2564570001896415476, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2564570001896415476, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2564570001896415476, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2564570001896415476, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7053187024442528796, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+      propertyPath: m_Name
+      value: NPC_Kuro
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+--- !u!4 &1713497577 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2564570001896415476, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+  m_PrefabInstance: {fileID: 1713497576}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1713497578 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+  m_PrefabInstance: {fileID: 1713497576}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1715940918
 GameObject:
   m_ObjectHideFlags: 0
@@ -89406,6 +89627,17 @@ Transform:
   - {fileID: 1707633867}
   m_Father: {fileID: 1656644567}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1729343880 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
+  m_PrefabInstance: {fileID: 434662047}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1733684654
 GameObject:
   m_ObjectHideFlags: 0
@@ -89546,6 +89778,17 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 5249778627662638789, guid: 23a11cd440591c24093b69c15c7757a1, type: 3}
   m_PrefabInstance: {fileID: 1454499125}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1745782625 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+  m_PrefabInstance: {fileID: 1203671814}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1756828772 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5249778627662638789, guid: 23a11cd440591c24093b69c15c7757a1, type: 3}
@@ -89927,16 +90170,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC_Poyo (3)
       objectReference: {fileID: 0}
-    - target: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
-      propertyPath: serifEnglish
-      value: "Looks like there\u2019s no treasure left anywhere. Guess we just wandered
-        into an old ruin after all."
-      objectReference: {fileID: 0}
-    - target: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
-      propertyPath: serifJapanese
-      value: "\u3082\u3046\u3069\u3053\u306B\u3082\u30AA\u30BF\u30AB\u30E9\u306F\u6B8B\u3063\u3066\u306A\u3055\u305D\u3046\u3060\u306A\u3002
-        \u7D50\u5C40\u3001\u305F\u3060\u306E\u5EC3\u589F\u306B\u8FF7\u3044\u8FBC\u3093\u3060\u3060\u3051\u304B\u3002"
-      objectReference: {fileID: 0}
     - target: {fileID: 6256986999660779462, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 21.71
@@ -89987,6 +90220,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6256986999660779462, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
   m_PrefabInstance: {fileID: 1821454154}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1821454156 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
+  m_PrefabInstance: {fileID: 1821454154}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1825265335
 GameObject:
   m_ObjectHideFlags: 0
@@ -90074,6 +90318,17 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1840381246 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+  m_PrefabInstance: {fileID: 1420553877}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1846821284 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5249778627662638789, guid: 23a11cd440591c24093b69c15c7757a1, type: 3}
@@ -90206,14 +90461,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC_Kuro (5)
       objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifEnglish
-      value: "It\u2019s soooo high! Let\u2019s hurry to the goal!"
-      objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifJapanese
-      value: "\u3059\u3054\u3044\u9AD8\u3044\u306D\uFF01 \u306F\u3084\u304F\u30B4\u30FC\u30EB\u306B\u884C\u3053\u3046\u3088\uFF01"
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -90224,6 +90471,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2564570001896415476, guid: ede05677687c8184d9484569717a2b6e, type: 3}
   m_PrefabInstance: {fileID: 1852834830}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1852834832 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+  m_PrefabInstance: {fileID: 1852834830}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1854312660 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5249778627662638789, guid: 23a11cd440591c24093b69c15c7757a1, type: 3}
@@ -103287,14 +103545,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC_Poyo (4)
       objectReference: {fileID: 0}
-    - target: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
-      propertyPath: serifEnglish
-      value: "Doesn\u2019t look like we\u2019ll get a moment\u2019s rest past here."
-      objectReference: {fileID: 0}
-    - target: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
-      propertyPath: serifJapanese
-      value: "\u3053\u3053\u304B\u3089\u5148\u306F\u843D\u3061\u7740\u304F\u6687\u3082\u306A\u3055\u305D\u3046\u3060\u306A\u3002"
-      objectReference: {fileID: 0}
     - target: {fileID: 6256986999660779462, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 27
@@ -103345,6 +103595,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6256986999660779462, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
   m_PrefabInstance: {fileID: 1866379031}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1866379033 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5303962774514790216, guid: 9a6165dc4efc3064aade689c6d35f6a2, type: 3}
+  m_PrefabInstance: {fileID: 1866379031}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1872896956
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -103353,14 +103614,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2059164248}
     m_Modifications:
-    - target: {fileID: 1121038742453534642, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: m_fontAsset
-      value: 
-      objectReference: {fileID: 11400000, guid: 7572b96af366c64428b2e74622dd1e16, type: 2}
-    - target: {fileID: 1121038742453534642, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: m_hasFontAssetChanged
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2564570001896415476, guid: ede05677687c8184d9484569717a2b6e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 18.78
@@ -103405,18 +103658,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC_Kuro (3)
       objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: isEnglish
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifEnglish
-      value: "Look, look! It\u2019s really high! Jumping from here would feel amazing\u2026"
-      objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifJapanese
-      value: "\u898B\u3066\u307F\u3066\uFF01\u3059\u3054\u304F\u9AD8\u3044\u3088\uFF01\u3000\u3053\u3053\u304B\u3089\u98DB\u3093\u3060\u3089\u6C17\u6301\u3061\u3044\u3044\u3060\u308D\u3046\u306A\u3041..."
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -103427,6 +103668,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2564570001896415476, guid: ede05677687c8184d9484569717a2b6e, type: 3}
   m_PrefabInstance: {fileID: 1872896956}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1872896958 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+  m_PrefabInstance: {fileID: 1872896956}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1877344378
 GameObject:
   m_ObjectHideFlags: 0
@@ -103758,14 +104010,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2059164248}
     m_Modifications:
-    - target: {fileID: 1121038742453534642, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: m_fontAsset
-      value: 
-      objectReference: {fileID: 11400000, guid: 7572b96af366c64428b2e74622dd1e16, type: 2}
-    - target: {fileID: 1121038742453534642, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: m_hasFontAssetChanged
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2564570001896415476, guid: ede05677687c8184d9484569717a2b6e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 14.47
@@ -103810,19 +104054,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC_Kuro (2)
       objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: isEnglish
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifEnglish
-      value: "Using checkpoints\u2026 about one every two screens sounds just right!"
-      objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifJapanese
-      value: "\u30C1\u30A7\u30C3\u30AF\u30DD\u30A4\u30F3\u30C8\u3092\u4F7F\u3046\u306E\u306F
-        2\u753B\u9762\u306B\u3064\u304D1\u500B\u304F\u3089\u3044\u304C\u826F\u3055\u305D\u3046\u3060\u3088\uFF01"
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -103833,6 +104064,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2564570001896415476, guid: ede05677687c8184d9484569717a2b6e, type: 3}
   m_PrefabInstance: {fileID: 1898278084}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1898278086 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+  m_PrefabInstance: {fileID: 1898278084}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1899581227
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -105019,14 +105261,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC_Kuro (2)
       objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifEnglish
-      value: "Hmm\u2026 Which route should we take to go up?"
-      objectReference: {fileID: 0}
-    - target: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
-      propertyPath: serifJapanese
-      value: "\u3046\u30FC\u3093\u3002 \u3069\u306E\u30EB\u30FC\u30C8\u3067\u767B\u308C\u3070\u3044\u3044\u306E\u304B\u306A\uFF1F"
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -105037,6 +105271,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2564570001896415476, guid: ede05677687c8184d9484569717a2b6e, type: 3}
   m_PrefabInstance: {fileID: 2011838005}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &2011838007 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+  m_PrefabInstance: {fileID: 2011838005}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2020770888
 GameObject:
   m_ObjectHideFlags: 0
@@ -105528,6 +105773,17 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_IsOn: 0
+--- !u!114 &2045540019 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8550822911376825573, guid: ede05677687c8184d9484569717a2b6e, type: 3}
+  m_PrefabInstance: {fileID: 1650406015}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032460747a7bcd844a6f5462fe822424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2058865357
 GameObject:
   m_ObjectHideFlags: 0
@@ -106251,6 +106507,7 @@ Transform:
   - {fileID: 24483824}
   - {fileID: 1939367043}
   - {fileID: 239101096}
+  - {fileID: 1519817480}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2141593694
@@ -106315,6 +106572,38 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7577309642872933086, guid: 23a11cd440591c24093b69c15c7757a1, type: 3}
   m_PrefabInstance: {fileID: 2141593694}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2143088393
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2143088394}
+  m_Layer: 0
+  m_Name: NPCs
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2143088394
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2143088393}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1713497577}
+  m_Father: {fileID: 1656644567}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &310968052458899795
 PrefabInstance:
   m_ObjectHideFlags: 0

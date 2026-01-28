@@ -25,16 +25,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6565999525713660332}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2564570001896415476}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.65, y: 0.12}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -1.16, y: 0}
   m_SizeDelta: {x: 20, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &7814919189510048019
@@ -60,7 +60,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -9119508449326012368, guid: 57ba0f9b5e6cde74e9cbfdaad1d24917, type: 2}
+  - {fileID: -5273609285964109816, guid: 7572b96af366c64428b2e74622dd1e16, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -104,8 +104,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u3053\u3053\u306B\u30AD\u30E3\u30E9\u306E\u30BB\u30EA\u30D5\u304C\u5165\u308B"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: d188d9b13286fde4a862e993f8426bd1, type: 2}
-  m_sharedMaterial: {fileID: -9119508449326012368, guid: 57ba0f9b5e6cde74e9cbfdaad1d24917, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 7572b96af366c64428b2e74622dd1e16, type: 2}
+  m_sharedMaterial: {fileID: -5273609285964109816, guid: 7572b96af366c64428b2e74622dd1e16, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -162,18 +162,18 @@ MonoBehaviour:
   m_horizontalMapping: 0
   m_verticalMapping: 0
   m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
+  m_geometrySortingOrder: 1
   m_IsTextObjectScaleStatic: 0
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 7.6500053, y: 0, z: 6.320032, w: 3.5255356}
+  m_margin: {x: 7.6500053, y: 0, z: 5.3141994, w: 3.5255356}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   _SortingLayer: 0
   _SortingLayerID: 0
   _SortingOrder: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_renderer: {fileID: 7814919189510048019}
   m_maskType: 0
 --- !u!1 &7053187024442528796
@@ -348,5 +348,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   text: {fileID: 1121038742453534642}
-  serifEnglish: "Wait\u2026 have we met before?"
-  serifJapanese: "\u3042\u308C\u3001\u524D\u306B\u3082\u4F1A\u3063\u305F\uFF1F"

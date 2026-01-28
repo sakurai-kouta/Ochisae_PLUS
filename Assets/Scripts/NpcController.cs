@@ -5,8 +5,14 @@ using UnityEngine;
 public class NpcController : MonoBehaviour
 {
     [SerializeField] private TextMeshPro text;
-    [SerializeField] private string serifEnglish;
-    [SerializeField] private string serifJapanese;
+    private string serifEnglish;
+    private string serifJapanese;
+
+    public void SetSerif(string jp, string en)
+    {
+        serifEnglish = "<mark=#000000DF padding=\"30, 30, 5, 5\">" + en + "</mark>";
+        serifJapanese = "<mark=#000000DF padding=\"30, 30, 5, 5\">" + jp + "</mark>";
+    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
