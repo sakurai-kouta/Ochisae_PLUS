@@ -51,7 +51,6 @@ public static class ColisionController
         float _friction = tileParamData.getFriction();
         float _liftSpeed = tileParamData.getLiftSpeed();
         Vector2 refV = Vector2.Reflect(_preVelocity, _normal);
-        Debug.Log($"CulcVelocityStay : _preVelocity = {_preVelocity}, _normal = {_normal}, tileParamData = {tileParamData}, refV = {refV}");
         // top side
         if (Mathf.Approximately(_normal.y, 1f))
         {

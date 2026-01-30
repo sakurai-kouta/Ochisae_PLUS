@@ -1,5 +1,6 @@
 using UnityEngine;
 using TMPro;
+using System.Collections.Generic;
 
 public class TeleportZone : MonoBehaviour
 {
@@ -8,6 +9,7 @@ public class TeleportZone : MonoBehaviour
         HIDEOUT,
         OMOTE,
         URA,
+        EX1,
     }
 
     [Header("Teleport Settings")]
@@ -69,6 +71,19 @@ public class TeleportZone : MonoBehaviour
                 break;
             case TeleportPosIndex.URA:
                 pc.moveInitialPosUra();
+                break;
+            case TeleportPosIndex.EX1:
+                if (VersionManager.IsTrial)
+                {
+                    pc.moveInitialPosOmote();
+                    ADVPartManager advPartManager = FindAnyObjectByType<ADVPartManager>();
+                    List<int> idList = new List<int>() { 9, 10 };
+                    advPartManager.StartADV(idList);
+                }
+                else 
+                {
+                    // EXステージに飛ばす。
+                }
                 break;
             default:
                 break;

@@ -7,11 +7,13 @@ public class GamePauseController : MonoBehaviour
 
     private InputAction escapeAction;
     private bool isPaused;
+    private bool isInvalid;   // 会話イベント中やクレジット中はポーズできないようにする。
 
     private SEPlayer sePlayer;
 
     private void Awake()
     {
+        isInvalid = false;
         escapeAction = InputSystem.actions.FindAction("Escape");
         ConfigMenuController configMenuController = configUI.GetComponent<ConfigMenuController>();
         configMenuController.LoadConfigData();
@@ -41,6 +43,11 @@ public class GamePauseController : MonoBehaviour
 
     private void PauseGame()
     {
+        if (isInvalid) 
+        {
+            Debug.Log("PauseGame(Invalid)");
+            return;
+        }
         Debug.Log("PauseGame");
         isPaused = true;
         configUI.SetActive(true);
@@ -69,5 +76,14 @@ public class GamePauseController : MonoBehaviour
         {
             sePlayer.PlayCloseConfig();
         }
+    }
+
+    public void InvalidPause()
+    {
+        isInvalid = true;
+    }
+    public void ValidPause()
+    {
+        isInvalid = false;
     }
 }

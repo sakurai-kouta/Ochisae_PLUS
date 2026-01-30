@@ -31,7 +31,6 @@ public class PlayerGroundChecker : MonoBehaviour
         );
 
         IsGrounded = hit.collider != null;
-        Debug.Log($"IsGrounded = {IsGrounded}");
     }
 
     private void OnDrawGizmosSelected()
