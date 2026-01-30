@@ -3,7 +3,7 @@ using System.Diagnostics;
 public static class VersionManager
 {
     // 手動で管理するベースバージョン
-    public const string BaseVersion = "ver.0.00";
+    public const string BaseVersion = "ver.0.01";
     // 体験版の場合はtrueにしておくこと。
     public const bool IsTrial = true;
 

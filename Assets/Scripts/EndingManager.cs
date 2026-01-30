@@ -19,12 +19,15 @@ public class EndingManager : MonoBehaviour
     [Header("Ending BGM")]
     [SerializeField] private BGMData endingBGMData;
 
+    private StageManager stageManager;
+
     private GameObject creditTextObject;
     private BGMManager bgmManager;
 
     private void Start()
     {
         bgmManager = FindAnyObjectByType<BGMManager>();
+        stageManager = FindAnyObjectByType<StageManager>();
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -75,6 +78,8 @@ public class EndingManager : MonoBehaviour
 
         // 一定時間後に削除
         StartCoroutine(AutoDestroy());
+        // タイマーストップ
+        stageManager.IsEnding = true;
     }
 
     private IEnumerator AutoDestroy()

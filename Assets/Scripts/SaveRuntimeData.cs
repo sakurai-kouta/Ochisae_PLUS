@@ -50,6 +50,7 @@ private void DeleteSaveFileFromEditor()
 
         string json = JsonUtility.ToJson(data, true);
         File.WriteAllText(SavePath, json);
+        Debug.Log($"SavePath = {SavePath}");
     }
 
     private void LoadFromJson()

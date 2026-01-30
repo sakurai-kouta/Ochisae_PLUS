@@ -5,6 +5,7 @@ using TMPro.Examples;
 using UnityEngine.SceneManagement;
 using System;
 using System.Collections;
+using static UnityEngine.InputSystem.LowLevel.InputStateHistory;
 
 public class StageManager : MonoBehaviour
 {
@@ -22,6 +23,9 @@ public class StageManager : MonoBehaviour
     private PlayerController playerController;
     private bool isUramen = false;
     private SEPlayer sePlayer;
+
+    public bool IsEnding { private get; set; }
+
     private void Awake() 
     {
         playerController = FindAnyObjectByType<PlayerController>();
@@ -41,11 +45,12 @@ public class StageManager : MonoBehaviour
 
     private void Update()
     {
-        playTime += Time.deltaTime;
-
+        if (!IsEnding)
+        {
+            playTime += Time.deltaTime;
+        }
         int minute = (int)(playTime / 60);
         int second = (int)(playTime % 60);
-
         // MM:SSŒ`Ž®‚É•ÏŠ·‚µ‚ÄTextMeshPro‚É•\Ž¦
         playTimeView.text = "TIME " + minute + ":" + second.ToString("00");
     }
