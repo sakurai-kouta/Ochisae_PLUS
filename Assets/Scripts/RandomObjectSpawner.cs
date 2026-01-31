@@ -42,7 +42,7 @@ public class RandomObjectSpawner : MonoBehaviour
             0f
         );
 
-        GameObject obj = Instantiate(prefab, transform.position + offset, Quaternion.identity);
+        GameObject obj = Instantiate(prefab, transform.position + offset, Quaternion.identity, transform);
 
         // 速度のランダム化（Rigidbody2Dがある場合）
         Rigidbody2D rb = obj.GetComponent<Rigidbody2D>();

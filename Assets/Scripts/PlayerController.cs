@@ -19,6 +19,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private Vector3 initalPosHideout;
     [SerializeField] private Vector3 initalPosOmote;
     [SerializeField] private Vector3 initalPosUra;
+    [SerializeField] private Vector3 initalPosEx1;
     [SerializeField] private StageManager stageManager;
     [SerializeField] private StageRuntimeData stageRuntimeData;
     [SerializeField] private StageTitleView stageTitleView;
@@ -228,6 +229,21 @@ public class PlayerController : MonoBehaviour
         isChage = false;
         ccf.SnapToPlayer();
         BGMManager.Instance?.UpdateHeight(transform.position.y);
+        stageRuntimeData.InvalidCheckpoint();
+    }
+    public void moveInitialPosEx1()
+    {
+        transform.position = initalPosEx1;
+        rb2d = GetComponent<Rigidbody2D>();
+        if (rb2d != null)
+        {
+            rb2d.linearVelocity = Vector2.zero;        // 速度をリセット
+            rb2d.angularVelocity = 0f;           // 回転速度もリセット
+        }
+        isChage = false;
+        ccf.SnapToPlayer();
+        BGMManager.Instance?.UpdateHeight(transform.position.y);
+        stageManager.InitStageManager();
         stageRuntimeData.InvalidCheckpoint();
     }
     void OnDestroy()

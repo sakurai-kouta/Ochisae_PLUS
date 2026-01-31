@@ -83,6 +83,7 @@ public class TeleportZone : MonoBehaviour
                 else 
                 {
                     // EXステージに飛ばす。
+                    pc.moveInitialPosEx1();
                 }
                 break;
             default:

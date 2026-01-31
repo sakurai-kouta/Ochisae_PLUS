@@ -3,9 +3,9 @@ using System.Diagnostics;
 public static class VersionManager
 {
     // 手動で管理するベースバージョン
-    public const string BaseVersion = "ver.0.01";
+    public const string BaseVersion = "ver.0.02";
     // 体験版の場合はtrueにしておくこと。
-    public const bool IsTrial = true;
+    public const bool IsTrial = false;
 
     // ビルド時に上書きされる
     private static string buildVersion = BaseVersion;
