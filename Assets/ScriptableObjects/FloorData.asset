@@ -133,3 +133,66 @@ MonoBehaviour:
   - floorName: "E20F \u9802\u70B9"
     floorName_EN: E20F Apex
     minHeight: 600
+  - floorName: "R1F \u5EC3\u68C4\u3055\u308C\u305F\u5854"
+    floorName_EN: R1F Abandoned Tower
+    minHeight: 660
+  - floorName: "R2F \u30E1\u30F3\u30C6\u30CA\u30F3\u30B9\u7528\u901A\u8DEF"
+    floorName_EN: R2F Maintenance Passage
+    minHeight: 675
+  - floorName: "R3F \u30A8\u30B9\u30AB\u30EC\u30FC\u30BF\u30FC"
+    floorName_EN: R3F Escalator
+    minHeight: 690
+  - floorName: "R4F \u6392\u6C34\u4E2D\uFF01"
+    floorName_EN: R4F Draining!
+    minHeight: 705
+  - floorName: "R5F \u8CAF\u6C34\u30BF\u30F3\u30AF"
+    floorName_EN: R5F water tank
+    minHeight: 720
+  - floorName: "R6F \u51B7\u5374\u6F15"
+    floorName_EN: R6F cooling tank
+    minHeight: 735
+  - floorName: "R7F \u8FCE\u6483\u30B7\u30B9\u30C6\u30E0"
+    floorName_EN: R7F interceptor system
+    minHeight: 750
+  - floorName: R8F WARNING!
+    floorName_EN: R8F WARNING!
+    minHeight: 765
+  - floorName: "R9F \u30D5\u30A1\u30A4\u30A2\u30A6\u30A9\u30FC\u30EB"
+    floorName_EN: R9F Firewall
+    minHeight: 780
+  - floorName: "R10F \u5D29\u58CA\u30A8\u30EA\u30A2"
+    floorName_EN: R10F Collapsed Area
+    minHeight: 795
+  - floorName: "R11F \u4FDD\u7BA1\u5BA4"
+    floorName_EN: R11F storage room
+    minHeight: 810
+  - floorName: "R12F \u683C\u7D0D\u5EAB"
+    floorName_EN: R12F Hangar
+    minHeight: 825
+  - floorName: "R13F \u9694\u58C1"
+    floorName_EN: R13F Bulkhead
+    minHeight: 840
+  - floorName: "R14F \u6C34\u58FA"
+    floorName_EN: R14F water pot
+    minHeight: 855
+  - floorName: "R15F \u901A\u98A8\u5B541"
+    floorName_EN: R15F Ventilation hole 1
+    minHeight: 870
+  - floorName: "R16F \u901A\u98A8\u5B542"
+    floorName_EN: R16F Ventilation hole 2
+    minHeight: 885
+  - floorName: "R17F \u7BA1\u7406\u8005\u30A8\u30EA\u30A2"
+    floorName_EN: R17F Admin Area
+    minHeight: 900
+  - floorName: "R18F \u6700\u4E0A\u968E"
+    floorName_EN: R18F Top floor
+    minHeight: 915
+  - floorName: "R19F \u7A7A"
+    floorName_EN: R19F Sky
+    minHeight: 930
+  - floorName: "R20F \u6E80\u6708"
+    floorName_EN: R20F Full Moon
+    minHeight: 945
+  - floorName: "R20F \u6E80\u6708"
+    floorName_EN: R20F Full Moon
+    minHeight: 945

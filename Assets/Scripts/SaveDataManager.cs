@@ -34,6 +34,7 @@ public static class SaveDataManager
 
         LoadIfNeeded();
         data[key] = value;
+        Debug.Log($"[SaveDataManager.Save] data[{key}] = {value}");
         WriteFile();
     }
 

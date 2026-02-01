@@ -247,6 +247,7 @@ public class PlayerController : MonoBehaviour
         BGMManager.Instance?.UpdateHeight(transform.position.y);
         stageManager.InitStageManager();
         stageRuntimeData.InvalidCheckpoint();
+        SaveDataManager.Save("isUramenValid", 0);
     }
     void OnDestroy()
     {
