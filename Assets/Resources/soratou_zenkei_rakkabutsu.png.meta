@@ -1,0 +1,2797 @@
+fileFormatVersion: 2
+guid: e141ba60d4a777a4095faeaf93a80f3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7431564857358230246
+    second: soratou_zenkei_rakkabutsu_0
+  - first:
+      213: -533505371781401080
+    second: soratou_zenkei_rakkabutsu_1
+  - first:
+      213: -8302154787069019489
+    second: soratou_zenkei_rakkabutsu_2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e22d181dd8322760800000000000000
+      internalID: 7431564857358230246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806f435e0bb9898f0800000000000000
+      internalID: -533505371781401080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a31763532d8cc80800000000000000
+      internalID: -8302154787069019489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1d213f5c388d54b98fdf72984b9d47
+      internalID: -168879243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66420e9ed14cbd1408d79ee034c3619d
+      internalID: -1473567128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc41de92b697cc44bbe930d87e86053d
+      internalID: -151394512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f397353a71cbc124586736658a41a762
+      internalID: -939555147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3dc647ffa7dc4489fe414d56d3aa9c
+      internalID: -1287131657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54207d5bf1764924097f6fe071182dbf
+      internalID: -2087455735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749a33457d2107141952acc9fa3b7c00
+      internalID: 1632434758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e793035f2d5eb444eae3613f07d2135c
+      internalID: -229453454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970644f5c42bd1247ae070b25fc5c024
+      internalID: 206633919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f31bacd3b7d9d745b6553c4fc81f9e2
+      internalID: -817183930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28979a6de9315ae48bda028910034db3
+      internalID: 2133234461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aabcbd52f9d86438d6b9dd9f419bfc
+      internalID: -1077000555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b481ce35be95d4cbba354aad848f26
+      internalID: 1613052782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff261fbbe32e5fa43a610f0a164da7a8
+      internalID: 807328035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0d18e777094534b8b54c76e4587e24
+      internalID: 1590934412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae996e5f494387b44ad76bcc7d676163
+      internalID: 1286513989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bc9344f15f98d4c9ef2decdb30275a
+      internalID: -1974948045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834667dda65bfc941be3a3d7043474c1
+      internalID: 1957488063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4390b035f889b241bd759e7546ce686
+      internalID: -814302629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceedbf260388bb3479d4025b70f444f2
+      internalID: -69077048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_23
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cabd2b498e7c854fac0781c5f06aec4
+      internalID: 1539931408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9603c242eef06a4a9158705780e8d50
+      internalID: 1666786353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_25
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526b7c204e6e5bd4a86ac73b4a901fe1
+      internalID: 377449067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_26
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdbb56528bcfc740b1ee7f78edf6694
+      internalID: 421844559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_27
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8d7bc0630214a4db38237c2f040bf4
+      internalID: 1314355230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_28
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed587d030db04f45bbefa328188687c
+      internalID: 1125469461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_29
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf18e70812fa82a42b9049d194459baf
+      internalID: -1035767498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95ae7a6327952d4e80b9fdf3f8e79ff
+      internalID: 1123872159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_31
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352fedacb670b454bb6aaea15e41e40d
+      internalID: 496613070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbfc23d49ecd9a4aab084acded3b472
+      internalID: -39905371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac26d8924bdae9f48aa58663450d10bd
+      internalID: -65929078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_34
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85248088e05f319479e27b7605ef3726
+      internalID: 1856953221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_35
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e983019efeb20a44c85f23235f297707
+      internalID: -129935248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a71dc822cc0662448afeeaf6310e215
+      internalID: -1732478515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6e624037505be4a9045b1f27c5353a
+      internalID: 1060461455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_38
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6487eba2f90c34ea36dea2aafd73db
+      internalID: 213001844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_39
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaa4036cc1ead64990307959a8aa726
+      internalID: 838355115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf8f4bcc2c176241944745a7f5cdc76
+      internalID: -853284860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86daf72e077f2c4bbb42559b5c470ce
+      internalID: -1515907813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_42
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b206576b86bbe7946ab043014b3c2dc5
+      internalID: 518646573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_43
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9719f8395661cd43a16f37dea2fb604
+      internalID: 1334083081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_44
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d858d6b64d9b74f8f25d75c5173b31
+      internalID: -1121339974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_45
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b68bb0074e17142b0f9d86408488b3
+      internalID: 1813601384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_46
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15df1e19e144fe242a6805efe869bc81
+      internalID: -553847857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_47
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6f8d90ab390374985c61b629b95c47
+      internalID: 752501367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4515f45a97b874eb75ec34155ce2b2
+      internalID: -268733908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e683588fc8bb6d48a1e673bc115cdc6
+      internalID: 695635275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_50
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6145a750b2f04554c993ffcfcf319778
+      internalID: -2038267467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbe9107967f99a459a18f4c26e424dc
+      internalID: 127690155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_52
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6f357f130e0b248bfd827af7ab2efd
+      internalID: 1368277963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_53
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041a170a5c77cd64193c687959e729fe
+      internalID: 796621317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_54
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf52dbd18488e847be9f826ac1ac4ea
+      internalID: -1327297084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_55
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3961964834bd4b45958e10b85e56043
+      internalID: 1535040819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_56
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6d7062fbd9bd04bbfbec3d39284b18
+      internalID: -1514552769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_57
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce750278e702e24a837b62dfc9949cc
+      internalID: -936415118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_58
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcb1f03a7de6e9439d1455f131a0845
+      internalID: -384686607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_59
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c545480fa749a443b09fe600d11dd5e
+      internalID: 1275920214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_60
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba0d7a6c9572ef4e9e48fc7ab5139d7
+      internalID: 1747575512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_61
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8d3b0a3e1f6d442a8c92559281d66d
+      internalID: 1855226091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_62
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e7ee8722df41642bf36897adcd5353
+      internalID: -24581245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_63
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d28bff9c8df7d468446bf77fa4cf42
+      internalID: -1266244201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a79286cdd2c11a4cb5fdf0a88a3dab1
+      internalID: 618329217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_65
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb41cdeff22e3149a6e2337220838dc
+      internalID: -794813941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_66
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad8452be00b31a47bffd6ac8823ed9d
+      internalID: 901254702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_67
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91424b241399ab48b0230c3bb487541
+      internalID: -1507448388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_68
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56196e2d677900458e11b8b0dd35cfd
+      internalID: -67923689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_69
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fec9bb2d215f5459287857ed8995b5
+      internalID: -962152582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_70
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be765bd718de1ab409ac42ce5d186c1c
+      internalID: 673969435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_71
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd8e5f11c506b44d8ee03047cabd4ed
+      internalID: 759978973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_72
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c77515e0f2b104d9b4f516020fd2b6
+      internalID: -1096952062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_73
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb922f9a160ea194f9b9ed9e482ec46a
+      internalID: 651660442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_74
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff89b39e58969df4fb928782b9c982ee
+      internalID: 1484977622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ef1963d06d2434b9ae308bfa581267
+      internalID: 442849956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_76
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993e0b4774c118d48b59966af6190f02
+      internalID: -890548139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_77
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65906b6879561ed4b87b3df6276beb67
+      internalID: -685568172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_78
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058d6c07e0ea88d4c96deefffc301822
+      internalID: 701547933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_79
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666214662cbad96479e2918154a14647
+      internalID: 1551542698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2780424e8c8165d488b3691c30517034
+      internalID: -610816151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_81
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3a1b8a4f390db46ad8d56405016556
+      internalID: 386431437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_82
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57306f63075d414db01c3753b826179
+      internalID: -1315949776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_83
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0f7bd9c23a1814c9edf563be3f1554
+      internalID: 913145457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_84
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f8bdc2720276a4dacbe01f3b082916
+      internalID: -1469696787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_85
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4ffc746f427d44184fbcb0a55d35d8
+      internalID: -2046498945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_86
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3e4603fd01b66409d27fb0aa5b0523
+      internalID: -1750178145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_87
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be67b5fbf8a190640a81bdfabee14d6e
+      internalID: 1520483883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_88
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa3dc1a5982e87448a43a2e23153161
+      internalID: -1214429135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_89
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cab63045df76b049b9f429afddd32bc
+      internalID: -1793243576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_90
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517e03c447e5369448ecc1577f479d3c
+      internalID: 1644205334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_91
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61c45f4b29e62a4da028531d1951af6
+      internalID: 1925101848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_92
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefb004910eca7e46bdb39421de09678
+      internalID: -565758094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1044902157ff18438e9cc755ce30f37
+      internalID: -360342208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_94
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a26a5b21a057aa499bbfcaf8406e62d
+      internalID: -839931188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_95
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2982a02dd06368f458aead43bad052f9
+      internalID: -1262649203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_96
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52c4307b9c9ae341a1739c5a5084585
+      internalID: -540208456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_97
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710ef7c6c1923384ba2dbaf48ec85f6b
+      internalID: 882588424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_98
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1edac7ee2e16764f983f9ac6f11cdba
+      internalID: 1948919442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_99
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bab0f45e980544fbc7dbfa5a5bab05
+      internalID: 551193959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_100
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dbcce049a91b54e8ebe24b9194eefc
+      internalID: -1310399358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_101
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7693d446e312b784c840c3329746155e
+      internalID: -220493680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_102
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d48fb0c852ff54d8375008616b9c8e
+      internalID: 1894770383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_103
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94548993a4dc1ac4296aa72251dda5e5
+      internalID: 1418522232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_104
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f828f772e7ab25541a7990bdf7569b41
+      internalID: 82052903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_105
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95adcaa78789ce445a6276fcb63843d5
+      internalID: -407473113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_106
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b4a72a4947dfc44aa1d0bb0258907e
+      internalID: -1820375057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_107
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825e0a604c00ccc4591533597af0a48e
+      internalID: -1536724462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_108
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ab3f6cbbcde0f499d5aca715872b1d
+      internalID: -368107865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_109
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef4daf591d27ef4f8bb2288b15007cf
+      internalID: 1096157043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_110
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00d8e59a8ce3564d927266d9f99f936
+      internalID: 261010654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_111
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bddc057b88b81d4f8ab1ede8afe7a35
+      internalID: -612878352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_112
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41683c27773eb2049ba7fdf69e478ed5
+      internalID: 1178939391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_113
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd4b7310246a8f4a8c44c4444549564
+      internalID: -1409241013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soratou_zenkei_rakkabutsu_114
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d5e2f0b0e29b743ab7490d4afbf154
+      internalID: 2051614324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5db55f360c59fd547968f03bbd5f6809
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      soratou_zenkei_rakkabutsu_0: 7431564857358230246
+      soratou_zenkei_rakkabutsu_1: -533505371781401080
+      soratou_zenkei_rakkabutsu_10: -229453454
+      soratou_zenkei_rakkabutsu_100: -1310399358
+      soratou_zenkei_rakkabutsu_101: -220493680
+      soratou_zenkei_rakkabutsu_102: 1894770383
+      soratou_zenkei_rakkabutsu_103: 1418522232
+      soratou_zenkei_rakkabutsu_104: 82052903
+      soratou_zenkei_rakkabutsu_105: -407473113
+      soratou_zenkei_rakkabutsu_106: -1820375057
+      soratou_zenkei_rakkabutsu_107: -1536724462
+      soratou_zenkei_rakkabutsu_108: -368107865
+      soratou_zenkei_rakkabutsu_109: 1096157043
+      soratou_zenkei_rakkabutsu_11: 206633919
+      soratou_zenkei_rakkabutsu_110: 261010654
+      soratou_zenkei_rakkabutsu_111: -612878352
+      soratou_zenkei_rakkabutsu_112: 1178939391
+      soratou_zenkei_rakkabutsu_113: -1409241013
+      soratou_zenkei_rakkabutsu_114: 2051614324
+      soratou_zenkei_rakkabutsu_12: -817183930
+      soratou_zenkei_rakkabutsu_13: 2133234461
+      soratou_zenkei_rakkabutsu_14: -1077000555
+      soratou_zenkei_rakkabutsu_15: 1613052782
+      soratou_zenkei_rakkabutsu_16: 807328035
+      soratou_zenkei_rakkabutsu_17: 1590934412
+      soratou_zenkei_rakkabutsu_18: 1286513989
+      soratou_zenkei_rakkabutsu_19: -1974948045
+      soratou_zenkei_rakkabutsu_2: -8302154787069019489
+      soratou_zenkei_rakkabutsu_20: 1957488063
+      soratou_zenkei_rakkabutsu_21: -814302629
+      soratou_zenkei_rakkabutsu_22: -69077048
+      soratou_zenkei_rakkabutsu_23: 1539931408
+      soratou_zenkei_rakkabutsu_24: 1666786353
+      soratou_zenkei_rakkabutsu_25: 377449067
+      soratou_zenkei_rakkabutsu_26: 421844559
+      soratou_zenkei_rakkabutsu_27: 1314355230
+      soratou_zenkei_rakkabutsu_28: 1125469461
+      soratou_zenkei_rakkabutsu_29: -1035767498
+      soratou_zenkei_rakkabutsu_3: -168879243
+      soratou_zenkei_rakkabutsu_30: 1123872159
+      soratou_zenkei_rakkabutsu_31: 496613070
+      soratou_zenkei_rakkabutsu_32: -39905371
+      soratou_zenkei_rakkabutsu_33: -65929078
+      soratou_zenkei_rakkabutsu_34: 1856953221
+      soratou_zenkei_rakkabutsu_35: -129935248
+      soratou_zenkei_rakkabutsu_36: -1732478515
+      soratou_zenkei_rakkabutsu_37: 1060461455
+      soratou_zenkei_rakkabutsu_38: 213001844
+      soratou_zenkei_rakkabutsu_39: 838355115
+      soratou_zenkei_rakkabutsu_4: -1473567128
+      soratou_zenkei_rakkabutsu_40: -853284860
+      soratou_zenkei_rakkabutsu_41: -1515907813
+      soratou_zenkei_rakkabutsu_42: 518646573
+      soratou_zenkei_rakkabutsu_43: 1334083081
+      soratou_zenkei_rakkabutsu_44: -1121339974
+      soratou_zenkei_rakkabutsu_45: 1813601384
+      soratou_zenkei_rakkabutsu_46: -553847857
+      soratou_zenkei_rakkabutsu_47: 752501367
+      soratou_zenkei_rakkabutsu_48: -268733908
+      soratou_zenkei_rakkabutsu_49: 695635275
+      soratou_zenkei_rakkabutsu_5: -151394512
+      soratou_zenkei_rakkabutsu_50: -2038267467
+      soratou_zenkei_rakkabutsu_51: 127690155
+      soratou_zenkei_rakkabutsu_52: 1368277963
+      soratou_zenkei_rakkabutsu_53: 796621317
+      soratou_zenkei_rakkabutsu_54: -1327297084
+      soratou_zenkei_rakkabutsu_55: 1535040819
+      soratou_zenkei_rakkabutsu_56: -1514552769
+      soratou_zenkei_rakkabutsu_57: -936415118
+      soratou_zenkei_rakkabutsu_58: -384686607
+      soratou_zenkei_rakkabutsu_59: 1275920214
+      soratou_zenkei_rakkabutsu_6: -939555147
+      soratou_zenkei_rakkabutsu_60: 1747575512
+      soratou_zenkei_rakkabutsu_61: 1855226091
+      soratou_zenkei_rakkabutsu_62: -24581245
+      soratou_zenkei_rakkabutsu_63: -1266244201
+      soratou_zenkei_rakkabutsu_64: 618329217
+      soratou_zenkei_rakkabutsu_65: -794813941
+      soratou_zenkei_rakkabutsu_66: 901254702
+      soratou_zenkei_rakkabutsu_67: -1507448388
+      soratou_zenkei_rakkabutsu_68: -67923689
+      soratou_zenkei_rakkabutsu_69: -962152582
+      soratou_zenkei_rakkabutsu_7: -1287131657
+      soratou_zenkei_rakkabutsu_70: 673969435
+      soratou_zenkei_rakkabutsu_71: 759978973
+      soratou_zenkei_rakkabutsu_72: -1096952062
+      soratou_zenkei_rakkabutsu_73: 651660442
+      soratou_zenkei_rakkabutsu_74: 1484977622
+      soratou_zenkei_rakkabutsu_75: 442849956
+      soratou_zenkei_rakkabutsu_76: -890548139
+      soratou_zenkei_rakkabutsu_77: -685568172
+      soratou_zenkei_rakkabutsu_78: 701547933
+      soratou_zenkei_rakkabutsu_79: 1551542698
+      soratou_zenkei_rakkabutsu_8: -2087455735
+      soratou_zenkei_rakkabutsu_80: -610816151
+      soratou_zenkei_rakkabutsu_81: 386431437
+      soratou_zenkei_rakkabutsu_82: -1315949776
+      soratou_zenkei_rakkabutsu_83: 913145457
+      soratou_zenkei_rakkabutsu_84: -1469696787
+      soratou_zenkei_rakkabutsu_85: -2046498945
+      soratou_zenkei_rakkabutsu_86: -1750178145
+      soratou_zenkei_rakkabutsu_87: 1520483883
+      soratou_zenkei_rakkabutsu_88: -1214429135
+      soratou_zenkei_rakkabutsu_89: -1793243576
+      soratou_zenkei_rakkabutsu_9: 1632434758
+      soratou_zenkei_rakkabutsu_90: 1644205334
+      soratou_zenkei_rakkabutsu_91: 1925101848
+      soratou_zenkei_rakkabutsu_92: -565758094
+      soratou_zenkei_rakkabutsu_93: -360342208
+      soratou_zenkei_rakkabutsu_94: -839931188
+      soratou_zenkei_rakkabutsu_95: -1262649203
+      soratou_zenkei_rakkabutsu_96: -540208456
+      soratou_zenkei_rakkabutsu_97: 882588424
+      soratou_zenkei_rakkabutsu_98: 1948919442
+      soratou_zenkei_rakkabutsu_99: 551193959
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
