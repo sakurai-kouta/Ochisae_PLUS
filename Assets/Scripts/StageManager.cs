@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 using System;
 using System.Collections;
 using static UnityEngine.InputSystem.LowLevel.InputStateHistory;
+using Newtonsoft.Json.Bson;
 
 public class StageManager : MonoBehaviour
 {
@@ -71,7 +72,9 @@ public class StageManager : MonoBehaviour
     // Item‚ğ‘S‚ÄW‚ß‚½‚Æ‚«‚ÉŒÄ‚Ño‚·ˆ—
     private void completedAllItems() 
     {
-        if (!isUramen)
+        int isUramenValid;
+        isUramenValid = SaveDataManager.Load("isUramenValid", 0);
+        if (!isUramen && isUramenValid == 1)
         {
             StartCoroutine(UraTransitionSequence());
             isUramen = true;

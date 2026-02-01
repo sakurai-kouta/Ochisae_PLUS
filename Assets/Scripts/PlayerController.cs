@@ -200,6 +200,7 @@ public class PlayerController : MonoBehaviour
         BGMManager.Instance?.UpdateHeight(transform.position.y);
         stageManager.InitStageManager();
         stageRuntimeData.InvalidCheckpoint();
+        SaveDataManager.Save("isUramenValid", 1);
     }
     public void moveInitialPosUra()
     {
@@ -230,6 +231,7 @@ public class PlayerController : MonoBehaviour
         ccf.SnapToPlayer();
         BGMManager.Instance?.UpdateHeight(transform.position.y);
         stageRuntimeData.InvalidCheckpoint();
+        SaveDataManager.Save("isUramenValid", 0);
     }
     public void moveInitialPosEx1()
     {
