@@ -53,3 +53,11 @@ MonoBehaviour:
     - 1
     - 1
     - 1
+  - tile: {fileID: 11400000, guid: 324bd0cbbb4dd0d42935c42ddf130557, type: 2}
+    friction: 1
+    liftSpeed: 0
+    bounce:
+    - 0
+    - 1
+    - 1
+    - 1

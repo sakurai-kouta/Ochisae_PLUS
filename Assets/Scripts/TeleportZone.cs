@@ -10,6 +10,7 @@ public class TeleportZone : MonoBehaviour
         OMOTE,
         URA,
         EX1,
+        EX2,
     }
 
     [Header("Teleport Settings")]
@@ -80,10 +81,24 @@ public class TeleportZone : MonoBehaviour
                     List<int> idList = new List<int>() { 9, 10 };
                     advPartManager.StartADV(idList);
                 }
-                else 
+                else
                 {
                     // EXステージに飛ばす。
                     pc.moveInitialPosEx1();
+                }
+                break;
+            case TeleportPosIndex.EX2:
+                if (VersionManager.IsTrial)
+                {
+                    pc.moveInitialPosOmote();
+                    ADVPartManager advPartManager = FindAnyObjectByType<ADVPartManager>();
+                    List<int> idList = new List<int>() { 9, 10 };
+                    advPartManager.StartADV(idList);
+                }
+                else
+                {
+                    // EXステージに飛ばす。
+                    pc.moveInitialPosEx2();
                 }
                 break;
             default:
