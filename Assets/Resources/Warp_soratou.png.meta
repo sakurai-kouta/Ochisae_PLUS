@@ -5,18 +5,6 @@ TextureImporter:
   - first:
       213: 1548494906527693900
     second: Warp_soratou_0
-  - first:
-      213: 4904460388765330342
-    second: Warp_soratou_1
-  - first:
-      213: 4710872651242059565
-    second: Warp_soratou_2
-  - first:
-      213: -768012902496031325
-    second: Warp_soratou_3
-  - first:
-      213: 443347092075954388
-    second: Warp_soratou_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -142,9 +130,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1440
-        width: 480
-        height: 480
+        y: 0
+        width: 128
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,20 +151,20 @@ TextureImporter:
       name: Warp_soratou_1
       rect:
         serializedVersion: 2
-        x: 480
-        y: 1440
-        width: 480
-        height: 480
+        x: 128
+        y: 0
+        width: 128
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6abe4571db4201440800000000000000
-      internalID: 4904460388765330342
+      spriteID: 8ad73988d7002e24ebcddc6aa7859448
+      internalID: -1617749255
       vertices: []
       indices: 
       edges: []
@@ -185,20 +173,20 @@ TextureImporter:
       name: Warp_soratou_2
       rect:
         serializedVersion: 2
-        x: 960
-        y: 1440
-        width: 480
-        height: 480
+        x: 256
+        y: 0
+        width: 128
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d27b26f87b1606140800000000000000
-      internalID: 4710872651242059565
+      spriteID: 0805cddf25b459940a8b9cf6fa3eefea
+      internalID: -192692691
       vertices: []
       indices: 
       edges: []
@@ -207,20 +195,20 @@ TextureImporter:
       name: Warp_soratou_3
       rect:
         serializedVersion: 2
-        x: 1440
-        y: 1440
-        width: 480
-        height: 480
+        x: 384
+        y: 0
+        width: 128
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3adaec395587755f0800000000000000
-      internalID: -768012902496031325
+      spriteID: 37e88b92938053a4899a3b8c4fbba4cb
+      internalID: -1815845054
       vertices: []
       indices: 
       edges: []
@@ -229,20 +217,20 @@ TextureImporter:
       name: Warp_soratou_4
       rect:
         serializedVersion: 2
-        x: 1920
-        y: 1440
-        width: 480
-        height: 480
+        x: 512
+        y: 0
+        width: 128
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4d0c36fc4d5172600800000000000000
-      internalID: 443347092075954388
+      spriteID: ceff981eaadda404baa088c406980eee
+      internalID: 1223620241
       vertices: []
       indices: 
       edges: []
@@ -251,10 +239,10 @@ TextureImporter:
       name: Warp_soratou_5
       rect:
         serializedVersion: 2
-        x: 0
-        y: 960
-        width: 480
-        height: 480
+        x: 640
+        y: 0
+        width: 128
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,8 +251,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 067c4d8184c3184408b41cfa16653561
-      internalID: 352725513
+      spriteID: e25572d65d378f948bcf05bb3304e48f
+      internalID: 1220854944
       vertices: []
       indices: 
       edges: []
@@ -273,10 +261,10 @@ TextureImporter:
       name: Warp_soratou_6
       rect:
         serializedVersion: 2
-        x: 480
-        y: 960
-        width: 480
-        height: 480
+        x: 768
+        y: 0
+        width: 128
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,8 +273,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8ccd64135da0c043b527d0348626320
-      internalID: -2061839372
+      spriteID: 32dc00855d82f2e4890bcaa621a19683
+      internalID: 1282337368
       vertices: []
       indices: 
       edges: []
@@ -295,10 +283,10 @@ TextureImporter:
       name: Warp_soratou_7
       rect:
         serializedVersion: 2
-        x: 960
-        y: 960
-        width: 480
-        height: 480
+        x: 896
+        y: 0
+        width: 128
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,8 +295,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c064506c05cb72f46af47e680b169bb7
-      internalID: -1490690302
+      spriteID: 5e63f95f67ab4034292fb1c0cc532a4d
+      internalID: 562910057
       vertices: []
       indices: 
       edges: []
@@ -317,10 +305,10 @@ TextureImporter:
       name: Warp_soratou_8
       rect:
         serializedVersion: 2
-        x: 1440
-        y: 960
-        width: 480
-        height: 480
+        x: 1024
+        y: 0
+        width: 128
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,8 +317,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dfcd3fda713867345b405832328f43df
-      internalID: 835123908
+      spriteID: 6edb2b5b79ab20d448bf0035cddaf31b
+      internalID: -309565135
       vertices: []
       indices: 
       edges: []
@@ -339,10 +327,10 @@ TextureImporter:
       name: Warp_soratou_9
       rect:
         serializedVersion: 2
-        x: 1920
-        y: 960
-        width: 480
-        height: 480
+        x: 1152
+        y: 0
+        width: 128
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -351,8 +339,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6e407a81f7a9db49bcebf37d8bd065d
-      internalID: -1583148165
+      spriteID: f70d315a6af6fb347af0637c51d1563b
+      internalID: 1252442859
       vertices: []
       indices: 
       edges: []
@@ -361,10 +349,10 @@ TextureImporter:
       name: Warp_soratou_10
       rect:
         serializedVersion: 2
-        x: 0
-        y: 480
-        width: 480
-        height: 480
+        x: 1280
+        y: 0
+        width: 128
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -373,8 +361,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8bc69dbd50bc7fa4b8b41ece6b615c23
-      internalID: -2048669764
+      spriteID: 28f728f90a96a22409c780c593c26d90
+      internalID: 775248323
       vertices: []
       indices: 
       edges: []
@@ -383,10 +371,10 @@ TextureImporter:
       name: Warp_soratou_11
       rect:
         serializedVersion: 2
-        x: 480
-        y: 480
-        width: 480
-        height: 480
+        x: 1408
+        y: 0
+        width: 128
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -395,8 +383,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1566e123e127677468b8a68572fb68b4
-      internalID: 171386762
+      spriteID: 041e9a0d9f1340b4ca13ad3352ef6725
+      internalID: 1507138832
       vertices: []
       indices: 
       edges: []
@@ -405,10 +393,10 @@ TextureImporter:
       name: Warp_soratou_12
       rect:
         serializedVersion: 2
-        x: 960
-        y: 480
-        width: 480
-        height: 480
+        x: 1536
+        y: 0
+        width: 128
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -417,8 +405,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83c274eb697d21e42ac41bf211210e2a
-      internalID: 672375125
+      spriteID: a4d436980d9036148b6c3d0461161b21
+      internalID: -423672004
       vertices: []
       indices: 
       edges: []
@@ -427,10 +415,10 @@ TextureImporter:
       name: Warp_soratou_13
       rect:
         serializedVersion: 2
-        x: 1440
-        y: 480
-        width: 480
-        height: 480
+        x: 1664
+        y: 0
+        width: 128
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -439,8 +427,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24839782b79d88f4c976ff9392619807
-      internalID: -1874259628
+      spriteID: 234805ae8543f01448dc3562cf41d8c6
+      internalID: 410342058
       vertices: []
       indices: 
       edges: []
@@ -449,10 +437,10 @@ TextureImporter:
       name: Warp_soratou_14
       rect:
         serializedVersion: 2
-        x: 1920
-        y: 480
-        width: 480
-        height: 480
+        x: 1792
+        y: 0
+        width: 128
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -461,8 +449,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3db99a87f18beb645a93971e65a5b4bd
-      internalID: 683097887
+      spriteID: 0526a25aa275200469397bd8aa221541
+      internalID: 997985982
       vertices: []
       indices: 
       edges: []
@@ -471,10 +459,10 @@ TextureImporter:
       name: Warp_soratou_15
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1920
         y: 0
-        width: 480
-        height: 480
+        width: 128
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -483,8 +471,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca215d9d97cb3554ab1ca8834ea2004b
-      internalID: 160545179
+      spriteID: 5cfb29b0b28246a408539c9ea03bbea2
+      internalID: -1138777680
       vertices: []
       indices: 
       edges: []
@@ -493,10 +481,10 @@ TextureImporter:
       name: Warp_soratou_16
       rect:
         serializedVersion: 2
-        x: 480
+        x: 2048
         y: 0
-        width: 480
-        height: 480
+        width: 128
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -505,8 +493,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3fe12cadbaae0d4db5673a71b54ad6c
-      internalID: 1712786532
+      spriteID: 7a4c6e8f0b1054d458bb26c5efb6e4b5
+      internalID: 1727219388
       vertices: []
       indices: 
       edges: []
@@ -515,10 +503,10 @@ TextureImporter:
       name: Warp_soratou_17
       rect:
         serializedVersion: 2
-        x: 960
+        x: 2176
         y: 0
-        width: 480
-        height: 480
+        width: 128
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -527,8 +515,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9afe4e2620d92a44800e74fc07e1cd0
-      internalID: 767269484
+      spriteID: acf43d947799b1745a5ab414211f1e27
+      internalID: -1996098922
       vertices: []
       indices: 
       edges: []
@@ -537,10 +525,10 @@ TextureImporter:
       name: Warp_soratou_18
       rect:
         serializedVersion: 2
-        x: 1440
+        x: 2304
         y: 0
-        width: 480
-        height: 480
+        width: 128
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -549,8 +537,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22e476426bc6dba4eb75fbdf79455e85
-      internalID: 916482861
+      spriteID: 34e72093494241e4a87c1b5abe5e432f
+      internalID: 1530262354
       vertices: []
       indices: 
       edges: []
@@ -559,10 +547,10 @@ TextureImporter:
       name: Warp_soratou_19
       rect:
         serializedVersion: 2
-        x: 1920
+        x: 2432
         y: 0
-        width: 480
-        height: 480
+        width: 128
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -571,8 +559,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6b13ea7ce4dd6c4b8950051da6640da
-      internalID: -1988436667
+      spriteID: ed1d6d75536dd574b83dd0b17a567a24
+      internalID: 624530059
       vertices: []
       indices: 
       edges: []
@@ -581,7 +569,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: b7d2a6afb9eb20a43892b27711551511
+    spriteID: 8b89341e000e659458c7d7d61acf9d9f
     internalID: 0
     vertices: []
     indices: 
@@ -592,25 +580,25 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Warp_soratou_0: 1548494906527693900
-      Warp_soratou_1: 4904460388765330342
-      Warp_soratou_10: -2048669764
-      Warp_soratou_11: 171386762
-      Warp_soratou_12: 672375125
-      Warp_soratou_13: -1874259628
-      Warp_soratou_14: 683097887
-      Warp_soratou_15: 160545179
-      Warp_soratou_16: 1712786532
-      Warp_soratou_17: 767269484
-      Warp_soratou_18: 916482861
-      Warp_soratou_19: -1988436667
-      Warp_soratou_2: 4710872651242059565
-      Warp_soratou_3: -768012902496031325
-      Warp_soratou_4: 443347092075954388
-      Warp_soratou_5: 352725513
-      Warp_soratou_6: -2061839372
-      Warp_soratou_7: -1490690302
-      Warp_soratou_8: 835123908
-      Warp_soratou_9: -1583148165
+      Warp_soratou_1: -1617749255
+      Warp_soratou_10: 775248323
+      Warp_soratou_11: 1507138832
+      Warp_soratou_12: -423672004
+      Warp_soratou_13: 410342058
+      Warp_soratou_14: 997985982
+      Warp_soratou_15: -1138777680
+      Warp_soratou_16: 1727219388
+      Warp_soratou_17: -1996098922
+      Warp_soratou_18: 1530262354
+      Warp_soratou_19: 624530059
+      Warp_soratou_2: -192692691
+      Warp_soratou_3: -1815845054
+      Warp_soratou_4: 1223620241
+      Warp_soratou_5: 1220854944
+      Warp_soratou_6: 1282337368
+      Warp_soratou_7: 562910057
+      Warp_soratou_8: -309565135
+      Warp_soratou_9: 1252442859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
