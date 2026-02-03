@@ -35,12 +35,10 @@ public class PlayerWindPhysics : MonoBehaviour
         // •—Œü‚«”»’è
         if (tile == windTileRight)
         {
-            Debug.Log("‰EŒü‚«‚Ì•—");
             rb.AddForce(Vector2.right * windForce, ForceMode2D.Force);
         }
         else if (tile == windTileLeft)
         {
-            Debug.Log("¶Œü‚«‚Ì•—");
             rb.AddForce(Vector2.left * windForce, ForceMode2D.Force);
         }
     }

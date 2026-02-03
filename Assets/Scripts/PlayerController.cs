@@ -133,18 +133,11 @@ public class PlayerController : MonoBehaviour
             Vector3Int cellPos = tilemap.WorldToCell(hitPos);
 
             TileBase tile = tilemap.GetTile<TileBase>(cellPos);
-            if (tile != null)
+            TileParamData tileParamData = tileParamDB.searchData(tile);
+            if (tileParamData != null)
             {
-                TileParamData tileParamData = tileParamDB.searchData(tile);
-                if (tileParamData != null)
-                {
-                    rb2d.linearVelocity = ColisionController.CulcVelocityStay(preVelocity, contactNormal, tileParamData);
-                    cld.Show();
-                }
-            }
-            else
-            {
-                // Debug.Log("tile is Null.");
+                rb2d.linearVelocity = ColisionController.CulcVelocityStay(preVelocity, contactNormal, tileParamData);
+                cld.Show();
             }
         }
     }
@@ -163,19 +156,12 @@ public class PlayerController : MonoBehaviour
             Vector3Int cellPos = tilemap.WorldToCell(hitPos);
 
             TileBase tile = tilemap.GetTile<TileBase>(cellPos);
-            if (tile != null)
+            TileParamData tileParamData = tileParamDB.searchData(tile);
+            if (tileParamData != null)
             {
-                TileParamData tileParamData = tileParamDB.searchData(tile);
-                if (tileParamData != null)
-                {
-                    rb2d.linearVelocity = ColisionController.CulcVelocityEnter(preVelocity, contactNormal, tileParamData);
-                    SetSquash(0);
-                    cld.Show();
-                }
-            }
-            else
-            {
-                // Debug.Log("tile is Null.");
+                rb2d.linearVelocity = ColisionController.CulcVelocityEnter(preVelocity, contactNormal, tileParamData);
+                SetSquash(0);
+                cld.Show();
             }
         }
     }

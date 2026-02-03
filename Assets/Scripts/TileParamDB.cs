@@ -17,6 +17,7 @@ public class TileParamDB : ScriptableObject
                 return item;
             }
         }
+        Debug.Log("ŠY“–ƒ^ƒCƒ‹‚È‚µ");
         return null;
     }
 }
