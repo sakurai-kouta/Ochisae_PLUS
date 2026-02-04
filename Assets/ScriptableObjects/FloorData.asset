@@ -193,6 +193,36 @@ MonoBehaviour:
   - floorName: "R20F \u6E80\u6708"
     floorName_EN: R20F Full Moon
     minHeight: 945
-  - floorName: "R20F \u6E80\u6708"
-    floorName_EN: R20F Full Moon
-    minHeight: 945
+  - floorName: "S1F \u7A7A\u5854\u5165\u53E3"
+    floorName_EN: S1F SORATOH entrance
+    minHeight: 975
+  - floorName: "S2F \u5206\u304B\u308C\u9053"
+    floorName_EN: S2F Crossroads
+    minHeight: 990
+  - floorName: "S3F \u592A\u967D"
+    floorName_EN: S3F Sun
+    minHeight: 1005
+  - floorName: "S4F \u8CAF\u6C34\u6C60"
+    floorName_EN: S4F Reservoir
+    minHeight: 1020
+  - floorName: "S5F \u6C37\u5BA41"
+    floorName_EN: S5F Refrigerator1
+    minHeight: 1035
+  - floorName: "S6F \u6C37\u5BA42"
+    floorName_EN: S6F Refrigerator2
+    minHeight: 1050
+  - floorName: "S7F \u8DB3\u5143\u6CE8\u610F"
+    floorName_EN: S7F Watch your step
+    minHeight: 1065
+  - floorName: "S8F \u4E8C\u3064\u306E\u8A66\u7DF4"
+    floorName_EN: S8F Two Trials
+    minHeight: 1080
+  - floorName: "S9F \u524D\u5BA4"
+    floorName_EN: S9F front room
+    minHeight: 1095
+  - floorName: "S10F \u6700\u5F8C\u306E\u5927\u968E\u6BB5"
+    floorName_EN: S10F Final Grand Staircase
+    minHeight: 1110
+  - floorName: "SxxF \u5929\u4E0A"
+    floorName_EN: SxxF Tenjoh
+    minHeight: 1125

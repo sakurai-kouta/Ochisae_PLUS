@@ -34,3 +34,15 @@ MonoBehaviour:
   - bgm: {fileID: 8300000, guid: a2304555451e7f94aa69cc4c8589ef84, type: 3}
     minHeight: 930
     volume: 0.25
+  - bgm: {fileID: 8300000, guid: e399d085d29a4be4b89405f95aebcf86, type: 3}
+    minHeight: 975
+    volume: 0.25
+  - bgm: {fileID: 8300000, guid: 98e467c7a2acd724ab84b473f97434f8, type: 3}
+    minHeight: 1020
+    volume: 0.25
+  - bgm: {fileID: 8300000, guid: b03642ba205316e43a58d97463f2f101, type: 3}
+    minHeight: 1080
+    volume: 0.25
+  - bgm: {fileID: 8300000, guid: a2304555451e7f94aa69cc4c8589ef84, type: 3}
+    minHeight: 1125
+    volume: 0.25
