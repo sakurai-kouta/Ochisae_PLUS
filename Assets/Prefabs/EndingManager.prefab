@@ -160,3 +160,6 @@ MonoBehaviour:
     bgm: {fileID: 8300000, guid: 4a5564b7106863b488bb4e3ccfdbab67, type: 3}
     minHeight: 0
     volume: 0.5
+  totalSecondsStr: 
+  totalCountStr: 
+  fastestSecondsStr: 

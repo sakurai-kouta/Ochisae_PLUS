@@ -160,6 +160,76 @@ MonoBehaviour:
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "...\u3075\u3001\u3075\u30FC\u3093\u3002\u5225\u306B\u5B09\u3057\u304F\u306A\u3093\u304B\u306A\u3044\u3051\u3069\u3002\u4ED5\u65B9\u306A\u3044\u304B\u3089\u9053\u3092\u4F5C\u3063\u3066\u3042\u3052\u308B\u3002"
     serif_EN: AAA
+  - id: 29
+    speaker: {fileID: 4132816442460685500, guid: d7666d986906e4f48a13d5b61b3febb6, type: 3}
+    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    serif_JP: "\u3053\u307B\u3093\u3001\u3088\u304F\u305E\u3053\u3053\u307E\u3067\u6765\u305F\u306E\u3002\u304A\u306C\u3057\u3082\u4F1D\u8AAC\u3092\u78BA\u304B\u3081\u306B\u6765\u305F\u30AF\u30C1\u3067\u3042\u308D\u3046\u3002"
+    serif_EN: AAA
+  - id: 30
+    speaker: {fileID: 4132816442460685500, guid: d7666d986906e4f48a13d5b61b3febb6, type: 3}
+    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    serif_JP: "\u671B\u307F\u901A\u308A\u3001\u304A\u306C\u3057\u306E\u9858\u3044\u3092\u306A\u3093\u3067\u3082\u4E00\u3064\u53F6\u3048\u3066\u3084\u308D\u3046\u3002\u3055\u3041\u3001\u4F55\u3092\u671B\u3080\uFF01"
+    serif_EN: AAA
+  - id: 31
+    speaker: {fileID: 4132816442460685500, guid: d7666d986906e4f48a13d5b61b3febb6, type: 3}
+    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    serif_JP: "...\u3048\u3001\u300C\u4F1D\u8AAC\u3063\u3066\u306A\u3093\u306E\u3053\u3068\uFF1F\u300D\u3062\u3083\u3068\uFF1F"
+    serif_EN: AAA
+  - id: 32
+    speaker: {fileID: 4132816442460685500, guid: d7666d986906e4f48a13d5b61b3febb6, type: 3}
+    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    serif_JP: "\u3062\u3083\u3042\u304A\u306C\u3057\u3001\u4E00\u4F53\u306A\u305C\u3053\u3093\u306A\u3068\u3053\u308D\u307E\u3067..."
+    serif_EN: AAA
+  - id: 33
+    speaker: {fileID: 4132816442460685500, guid: d7666d986906e4f48a13d5b61b3febb6, type: 3}
+    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    serif_JP: "\u3048\uFF1F\u300C\u767B\u3063\u3066\u307F\u305F\u304B\u3063\u305F\u3060\u3051\u300D\uFF1F\u3000\u3042\u3063\u3001\u3075\u30FC\u3093...\u305D\u3046\u306A\u306E...\u3002"
+    serif_EN: AAA
+  - id: 34
+    speaker: {fileID: 4132816442460685500, guid: d7666d986906e4f48a13d5b61b3febb6, type: 3}
+    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    serif_JP: "\u307E\u3042\u3001\u306A\u3093\u3068\u3044\u3046\u304B\u305D\u306E\u3001\u697D\u3057\u304B\u3063\u305F\uFF1F"
+    serif_EN: AAA
+  - id: 35
+    speaker: {fileID: 4132816442460685500, guid: d7666d986906e4f48a13d5b61b3febb6, type: 3}
+    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    serif_JP: "...\u305D\u3046\u3002\u306A\u3089\u3088\u304B\u3063\u305F\u306E\u3002"
+    serif_EN: AAA
+  - id: 36
+    speaker: {fileID: 4132816442460685500, guid: d7666d986906e4f48a13d5b61b3febb6, type: 3}
+    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    serif_JP: "\u51FA\u53E3\u306F\u53F3\u3062\u3083\u3002\u307E\u305F\u904A\u3073\u306B\u304A\u3044\u3067\u3002"
+    serif_EN: AAA
+  - id: 4
+    speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
+    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    serif_JP: "...\u62E0\u70B9\u306B\u9053\u4F5C\u3063\u3068\u3044\u305F\u304B\u3089\u3088\u3001\u597D\u304D\u306B\u4F7F\u3044\u306A\u3002"
+    serif_EN: AAA
+  - id: 4
+    speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
+    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    serif_JP: "...\u62E0\u70B9\u306B\u9053\u4F5C\u3063\u3068\u3044\u305F\u304B\u3089\u3088\u3001\u597D\u304D\u306B\u4F7F\u3044\u306A\u3002"
+    serif_EN: AAA
+  - id: 4
+    speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
+    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    serif_JP: "...\u62E0\u70B9\u306B\u9053\u4F5C\u3063\u3068\u3044\u305F\u304B\u3089\u3088\u3001\u597D\u304D\u306B\u4F7F\u3044\u306A\u3002"
+    serif_EN: AAA
+  - id: 4
+    speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
+    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    serif_JP: "...\u62E0\u70B9\u306B\u9053\u4F5C\u3063\u3068\u3044\u305F\u304B\u3089\u3088\u3001\u597D\u304D\u306B\u4F7F\u3044\u306A\u3002"
+    serif_EN: AAA
+  - id: 4
+    speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
+    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    serif_JP: "...\u62E0\u70B9\u306B\u9053\u4F5C\u3063\u3068\u3044\u305F\u304B\u3089\u3088\u3001\u597D\u304D\u306B\u4F7F\u3044\u306A\u3002"
+    serif_EN: AAA
+  - id: 4
+    speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
+    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    serif_JP: "...\u62E0\u70B9\u306B\u9053\u4F5C\u3063\u3068\u3044\u305F\u304B\u3089\u3088\u3001\u597D\u304D\u306B\u4F7F\u3044\u306A\u3002"
+    serif_EN: AAA
   - id: 4
     speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
