@@ -17,189 +17,204 @@ MonoBehaviour:
     speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "\u306A\u3093\u3062\u3083\u3001\u3082\u3046\u623B\u3063\u3066\u304D\u305F\u306E\u304B\u3002"
-    serif_EN: This is TEST.
+    serif_EN: "What\u2019s this now\u2026 back already, are you?"
   - id: 1
     speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
-    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    listener: {fileID: 1825800940856599697, guid: 9bcecea03d9e83940837cf54a43a7d95, type: 3}
     serif_JP: "\u306A\u306B\uFF1F\u3000\\n\u7A7A\u304B\u3089\u9EC4\u91D1\u304C\u964D\u3063\u3066\u3044\u305F\uFF1F\uFF1F"
-    serif_EN: This is TEST.
+    serif_EN: What? Gold was falling from the sky, you say?
   - id: 2
     speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "\u3082\u3057\u3084\u305D\u308C\u306F\u3001\u4F1D\u8AAC\u306E\\n\u300C\u7A7A\u5854\u300D\u304B\u3089\u306E\u3082\u306E\u304B\u3082\u3057\u308C\u3093\u306E\u3062\u3083\u3002"
-    serif_EN: This is TEST.
+    serif_EN: "Could it be\u2026 that it came from the legendary \u2018Soratoh\u2019?"
   - id: 3
     speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
-    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    listener: {fileID: 980305085314342759, guid: c8a080b303f9a274ba43aae2b0a3cc07, type: 3}
     serif_JP: "\u3080\u3080\u3002\u305D\u306E\u9854\u306F\u4FE1\u3058\u3066\u304A\u3089\u3093\u306A\uFF1F\\n\u8001\u4F53\u3068\u99AC\u9E7F\u306B\u3057\u304A\u3063\u3066"
-    serif_EN: This is TEST.
+    serif_EN: "Hmm. That look on your face\u2026 you don\u2019t believe me, do you?
+      You mock this old body of mine."
   - id: 4
     speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
-    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    listener: {fileID: 1825800940856599697, guid: 9bcecea03d9e83940837cf54a43a7d95, type: 3}
     serif_JP: "\u3053\u308C\u3067\u3082\u6614\u306F\u4E16\u754C\u4E2D\u3092\u8DF3\u3073\u307E\u308F\u3063\u3066...\\n\u3046\u3093\uFF1F\u3000\u7A7A\u5854\u306B\u3064\u3044\u3066\u805E\u304D\u305F\u3044\u3068\uFF1F"
-    serif_EN: This is TEST.
+    serif_EN: "I may be like this now, but once I traveled the world far and wide\u2026
+      Hm? You want to hear about the Soratoh?"
   - id: 5
     speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "\u7A7A\u5854\u306F\u305D\u306E\u9AD8\u5EA6\u6545\u306B\u661F\u306E\u91CD\u529B\u570F\u304B\u3089\u89E3\u304D\u653E\u305F\u308C\u305F\u3068\u3044\u3046\u3001
       \u3081\u3063\u3061\u3083\u6614\u306E\u5854\u3062\u3083\u3002"
-    serif_EN: This is TEST.
+    serif_EN: "Soratoh, they say, rose so high it slipped free of the star\u2019s
+      gravity\u2026 a tower from ages long past."
   - id: 6
     speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
-    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    listener: {fileID: 1825800940856599697, guid: 9bcecea03d9e83940837cf54a43a7d95, type: 3}
     serif_JP: "...\u306A\u306B\u3001\u7A7A\u5854\u3092\u63A2\u3057\u305F\u3044\uFF1F
       \\n\u305D\u306E\u6C17\u6982\u3084\u30E8\u30B7\uFF01"
-    serif_EN: This is TEST.
+    serif_EN: "\u2026Hm? You mean to search for the Soratoh? A fine bit of resolve
+      you\u2019ve got there."
   - id: 7
     speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "\u7A7A\u5854\u3067\u306F\u306A\u3044\u304C\u3001\u305D\u308C\u306A\u308A\u306B\u9AD8\u3044\u5854\u306B\u7E4B\u304C\u308B\u30B2\u30FC\u30C8\u3092\u958B\u3044\u3066\u304A\u304F\u306E\u3062\u3083\u3002 "
-    serif_EN: This is TEST.
+    serif_EN: "It\u2019s not the Sky Tower, mind you, but I\u2019ll open a gate to
+      a tower high enough."
   - id: 8
     speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "\u9AD8\u3044\u3068\u3053\u308D\u304B\u3089\u63A2\u305B\u3070\u3001\u306A\u3093\u304B\u305D\u308C\u3063\u307D\u3044\u306E\u304C\u898B\u3064\u304B\u308B\u3062\u3083\u308D\u3002\u305F\u3076\u3093\u3002"
-    serif_EN: AAA
+    serif_EN: "Look around from a high place and you\u2019ll likely see something
+      that fits the bill\u2026 maybe."
   - id: 9
     speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "\u304A\u3063\u3068\u3001\u6B8B\u5FF5\u3062\u3083\u304C\u4F53\u9A13\u7248\u306F\u3053\u3053\u307E\u3067\u3062\u3083\u3002"
-    serif_EN: AAA
+    serif_EN: "Ah, shame, but that\u2019s all for the trial, I\u2019m afraid."
   - id: 10
     speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "\u306A\u308B\u306F\u3084\u3067\u88FD\u4F5C\u3057\u3066\u304A\u308B\u304B\u3089\u306E\u3002\\n\u3082\u3046\u3061\u3087\u3063\u3068\u3060\u3051\u5F85\u3063\u3066\u3066\u6B32\u3057\u3044\u306E\u3062\u3083\u3002"
-    serif_EN: AAA
+    serif_EN: "I\u2019m putting it together as quickly as these old hands allow.
+      Do wait just a bit longer, won\u2019t you?"
   - id: 11
     speaker: {fileID: -9171530320367031661, guid: 7574be10df8144643bd0614b8f8545c8, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "...\u8F1D\u304D\u304C\u8DB3\u308A\u306A\u3044\u306A\u3002"
-    serif_EN: AAA
+    serif_EN: "\u2026The radiance is lacking."
   - id: 12
     speaker: {fileID: -9171530320367031661, guid: 7574be10df8144643bd0614b8f8545c8, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "...\u51FA\u76F4\u3057\u3066\u3053\u3044\u3002"
-    serif_EN: AAA
+    serif_EN: "\u2026Return when you are worthy."
   - id: 13
     speaker: {fileID: -9171530320367031661, guid: 7574be10df8144643bd0614b8f8545c8, type: 3}
-    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    listener: {fileID: 1825800940856599697, guid: 9bcecea03d9e83940837cf54a43a7d95, type: 3}
     serif_JP: "...\u30AA\u30DE\u30A8\u3001\u8F1D\u3044\u3066\u308B\u306A\u3002"
-    serif_EN: AAA
+    serif_EN: "\u2026You shine."
   - id: 14
     speaker: {fileID: -9171530320367031661, guid: 7574be10df8144643bd0614b8f8545c8, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "\u3060\u304C\u307E\u3060\u8DB3\u308A\u306A\u3044\u3002\\n \u305B\u3081\u3066\u30A2\u30EC\u304F\u3089\u3044\u8F1D\u304B\u306D\u3047\u3068\u306A\u3002"
-    serif_EN: AAA
+    serif_EN: But it is still not enough. At the very least, you must shine like
+      that.
   - id: 15
     speaker: {fileID: -9171530320367031661, guid: 7574be10df8144643bd0614b8f8545c8, type: 3}
-    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    listener: {fileID: 1825800940856599697, guid: 9bcecea03d9e83940837cf54a43a7d95, type: 3}
     serif_JP: "...\u306A\u306B\u3001\u3042\u305D\u3053\u306B\u884C\u304D\u305F\u3044\u306E\u304B\uFF1F"
-    serif_EN: AAA
+    serif_EN: "\u2026What? You wish to go there?"
   - id: 16
     speaker: {fileID: -9171530320367031661, guid: 7574be10df8144643bd0614b8f8545c8, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "...\u3044\u3044\u305C\u3001\u9023\u308C\u3066\u884C\u3063\u3066\u3084\u308B\u3002"
-    serif_EN: AAA
+    serif_EN: "\u2026Very well. I will take you there."
   - id: 17
     speaker: {fileID: -9171530320367031661, guid: 7574be10df8144643bd0614b8f8545c8, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "...\u62E0\u70B9\u306B\u9053\u4F5C\u3063\u3068\u3044\u305F\u304B\u3089\u3088\u3001\u597D\u304D\u306B\u4F7F\u3044\u306A\u3002"
-    serif_EN: AAA
+    serif_EN: "\u2026I\u2019ve laid a path to your base. Use it as you please."
   - id: 18
     speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "\u3053\u308C\u307E\u3062\u3067\u3084\u3079\u30FC\u306E\u3067\u306F\uFF1F"
-    serif_EN: AAA
+    serif_EN: "This is really bad, isn\u2019t it?"
   - id: 19
     speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "...\u304A\u304A\u3001\u623B\u3063\u305F\u304B\uFF01\\n\u898B\u308B\u306E\u3058\u3083\u3001\u7A7A\u304B\u3089\u306A\u3093\u304B\u3059\u3054\u3044\u306E\u304C..."
-    serif_EN: AAA
+    serif_EN: "\u2026Oho, you\u2019ve returned! Look there\u2014something most wondrous
+      from the heavens\u2026"
   - id: 20
     speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
-    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    listener: {fileID: 1825800940856599697, guid: 9bcecea03d9e83940837cf54a43a7d95, type: 3}
     serif_JP: "...\u306A\u306B\uFF1F\u3000\u3042\u308C\u304C\u7A7A\u5854\u3078\u306E\u9053\u3062\u3083\u3068\uFF1F"
-    serif_EN: AAA
+    serif_EN: "\u2026Hm? That thing there is the way to the Soratoh, you say?"
   - id: 21
     speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "\u307E\u3055\u304B\u672C\u5F53\u306B\u898B\u3064\u3051\u3066\u304F\u308B\u3068\u306F\u601D\u308F\u306A\u3093\u3060\u3002\u304A\u306C\u3057\u3001\u306A\u304B\u306A\u304B\u3084\u308B\u306E\u3046\u3002"
-    serif_EN: AAA
+    serif_EN: "I never thought I\u2019d live to see you find it. Well done, indeed."
   - id: 22
     speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "\u3082\u3046\u308F\u3057\u306F\u4F55\u3082\u8A00\u308F\u3093\u3002\\n\u304A\u306C\u3057\u306E\u3084\u308A\u305F\u3044\u3053\u3068\u3092\u3084\u308A\u304D\u308B\u306E\u3062\u3083\u3002"
-    serif_EN: AAA
+    serif_EN: "I\u2019ll say no more. Do as you see fit, and carry it through to
+      the end."
   - id: 23
     speaker: {fileID: 5950619789779261777, guid: 060978a1b45a22b49b773ed514b83677, type: 3}
-    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    listener: {fileID: 980305085314342759, guid: c8a080b303f9a274ba43aae2b0a3cc07, type: 3}
     serif_JP: "\u3061\u3087\u3063\u3068\uFF01\u3000\u4F55\u898B\u3066\u308B\u306E\u3088\u30D0\u30AB\u3041\uFF01"
-    serif_EN: AAA
+    serif_EN: H-Hey! What are you staring at, you idiot?!
   - id: 24
     speaker: {fileID: 5950619789779261777, guid: 060978a1b45a22b49b773ed514b83677, type: 3}
-    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    listener: {fileID: 980305085314342759, guid: c8a080b303f9a274ba43aae2b0a3cc07, type: 3}
     serif_JP: "\u30A2\u30F3\u30BF\u307F\u305F\u3044\u306A\u8F1D\u3044\u3066\u306A\u3044\u30E4\u30C4\u3001\\n\u4F55\u3068\u3082\u601D\u3063\u3066\u306A\u3044\u3093\u3060\u304B\u3089\u306D\uFF01\uFF1F"
-    serif_EN: AAA
+    serif_EN: "I-I don\u2019t care about someone as unshiny as you at all, you know?!"
   - id: 25
     speaker: {fileID: 5950619789779261777, guid: 060978a1b45a22b49b773ed514b83677, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "\u305B\u3081\u30663\u3064\u5206\u304F\u3089\u3044\u306F\u8F1D\u304D\u306A\u3055\u3044\u3088\u306D\uFF01"
-    serif_EN: AAA
+    serif_EN: At least shine about three times brighter, will you?!
   - id: 26
     speaker: {fileID: 5950619789779261777, guid: 060978a1b45a22b49b773ed514b83677, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "\u306A\u306B\u3088\u30A2\u30F3\u30BF\u3001\u307E\u3060\u3044\u305F\u306E\uFF1F"
-    serif_EN: AAA
+    serif_EN: "What is it with you\u2026 you\u2019re still here?!"
   - id: 27
     speaker: {fileID: 5950619789779261777, guid: 060978a1b45a22b49b773ed514b83677, type: 3}
-    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    listener: {fileID: 1825800940856599697, guid: 9bcecea03d9e83940837cf54a43a7d95, type: 3}
     serif_JP: "\u5F8B\u5100\u306B\u8F1D\u3044\u3061\u3083\u3063\u3066...\\n\u306A\u306B\uFF1F\u3000\u79C1\u306B\u8208\u5473\u3067\u3082\u3042\u308B\u306E\uFF1F"
-    serif_EN: AAA
+    serif_EN: "You really went and shined properly, didn\u2019t you\u2026 What? Don\u2019t
+      tell me you\u2019re interested in me or something?!"
   - id: 28
     speaker: {fileID: 5950619789779261777, guid: 060978a1b45a22b49b773ed514b83677, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "...\u3075\u3001\u3075\u30FC\u3093\u3002\u5225\u306B\u5B09\u3057\u304F\u306A\u3093\u304B\u306A\u3044\u3051\u3069\u3002\u4ED5\u65B9\u306A\u3044\u304B\u3089\u9053\u3092\u4F5C\u3063\u3066\u3042\u3052\u308B\u3002"
-    serif_EN: AAA
+    serif_EN: "\u2026H-Hmph. It\u2019s not like I\u2019m happy or anything. But fine\u2014I\u2019ll
+      make a path for you."
   - id: 29
     speaker: {fileID: 4132816442460685500, guid: d7666d986906e4f48a13d5b61b3febb6, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "\u3053\u307B\u3093\u3001\u3088\u304F\u305E\u3053\u3053\u307E\u3067\u6765\u305F\u306E\u3002\u304A\u306C\u3057\u3082\u4F1D\u8AAC\u3092\u78BA\u304B\u3081\u306B\u6765\u305F\u30AF\u30C1\u3067\u3042\u308D\u3046\u3002"
-    serif_EN: AAA
+    serif_EN: "Ahem. You\u2019ve done well to come this far. You too have come to
+      see whether the legends are true, have you not?"
   - id: 30
     speaker: {fileID: 4132816442460685500, guid: d7666d986906e4f48a13d5b61b3febb6, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "\u671B\u307F\u901A\u308A\u3001\u304A\u306C\u3057\u306E\u9858\u3044\u3092\u306A\u3093\u3067\u3082\u4E00\u3064\u53F6\u3048\u3066\u3084\u308D\u3046\u3002\u3055\u3041\u3001\u4F55\u3092\u671B\u3080\uFF01"
-    serif_EN: AAA
+    serif_EN: "Very well. I will fulfill one wish of yours, whatever it may be. Speak\u2014what
+      is it you desire?"
   - id: 31
     speaker: {fileID: 4132816442460685500, guid: d7666d986906e4f48a13d5b61b3febb6, type: 3}
-    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    listener: {fileID: 980305085314342759, guid: c8a080b303f9a274ba43aae2b0a3cc07, type: 3}
     serif_JP: "...\u3048\u3001\u300C\u4F1D\u8AAC\u3063\u3066\u306A\u3093\u306E\u3053\u3068\uFF1F\u300D\u3062\u3083\u3068\uFF1F"
-    serif_EN: AAA
+    serif_EN: "\u2026What? \u2018The legend\u2019? You mean you don\u2019t know what
+      that is?"
   - id: 32
     speaker: {fileID: 4132816442460685500, guid: d7666d986906e4f48a13d5b61b3febb6, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "\u3062\u3083\u3042\u304A\u306C\u3057\u3001\u4E00\u4F53\u306A\u305C\u3053\u3093\u306A\u3068\u3053\u308D\u307E\u3067..."
-    serif_EN: AAA
+    serif_EN: "Then why, pray tell, have you come all the way to a place like this\u2026?"
   - id: 33
     speaker: {fileID: 4132816442460685500, guid: d7666d986906e4f48a13d5b61b3febb6, type: 3}
-    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    listener: {fileID: 1825800940856599697, guid: 9bcecea03d9e83940837cf54a43a7d95, type: 3}
     serif_JP: "\u3048\uFF1F\u300C\u767B\u3063\u3066\u307F\u305F\u304B\u3063\u305F\u3060\u3051\u300D\uFF1F\u3000\u3042\u3063\u3001\u3075\u30FC\u3093...\u305D\u3046\u306A\u306E...\u3002"
-    serif_EN: AAA
+    serif_EN: "Eh? You only wanted to see if you could climb it? Oh\u2026 I see now\u2026"
   - id: 34
     speaker: {fileID: 4132816442460685500, guid: d7666d986906e4f48a13d5b61b3febb6, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "\u307E\u3042\u3001\u306A\u3093\u3068\u3044\u3046\u304B\u305D\u306E\u3001\u697D\u3057\u304B\u3063\u305F\uFF1F"
-    serif_EN: AAA
+    serif_EN: "Well now\u2026 how should I put it\u2026 did you enjoy yourself?"
   - id: 35
     speaker: {fileID: 4132816442460685500, guid: d7666d986906e4f48a13d5b61b3febb6, type: 3}
-    listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
+    listener: {fileID: 1825800940856599697, guid: 9bcecea03d9e83940837cf54a43a7d95, type: 3}
     serif_JP: "...\u305D\u3046\u3002\u306A\u3089\u3088\u304B\u3063\u305F\u306E\u3002"
-    serif_EN: AAA
+    serif_EN: "\u2026Is that so. Well then\u2026 that\u2019s good."
   - id: 36
     speaker: {fileID: 4132816442460685500, guid: d7666d986906e4f48a13d5b61b3febb6, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
     serif_JP: "\u51FA\u53E3\u306F\u53F3\u3062\u3083\u3002\u307E\u305F\u904A\u3073\u306B\u304A\u3044\u3067\u3002"
-    serif_EN: AAA
+    serif_EN: The exit is to the right. Do come and play again sometime.
   - id: 4
     speaker: {fileID: 6270443858436751365, guid: 080875fd70341764fbc47bd2ddf02398, type: 3}
     listener: {fileID: 4193438405032801838, guid: b2f47cd111704204aa48e02d56a2324f, type: 3}
