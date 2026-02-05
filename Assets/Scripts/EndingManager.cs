@@ -19,6 +19,11 @@ public class EndingManager : MonoBehaviour
     [Header("Ending BGM")]
     [SerializeField] private BGMData endingBGMData;
 
+    [Header("History")]
+    [SerializeField] private string totalSecondsStr;
+    [SerializeField] private string totalCountStr;
+    [SerializeField] private string fastestSecondsStr;
+
     private StageManager stageManager;
 
     private GameObject creditTextObject;
@@ -35,8 +40,39 @@ public class EndingManager : MonoBehaviour
         StartEnding();
     }
 
+    private void updateHistoryData()
+    {
+        if (ConfigMenuController.IsPreEasy) 
+        {
+            return;
+        }
+        int curPlayTime = (int) stageManager.GetPlayTime();
+        // 総登山時間の更新
+        if (totalSecondsStr != "" || totalSecondsStr != null) 
+        {
+            int playTime = SaveDataManager.Load(totalSecondsStr, 0);
+            SaveDataManager.Save(totalSecondsStr, playTime + curPlayTime);
+        }
+        // 総登山回数の更新
+        if (totalCountStr != "" || totalCountStr != null)
+        {
+            int playCount = SaveDataManager.Load(totalCountStr, 0);
+            SaveDataManager.Save(totalCountStr, playCount + 1);
+        }
+        // 最速登山時間の更新
+        if (fastestSecondsStr != "" || fastestSecondsStr != null)
+        {
+            int fastestTime = SaveDataManager.Load(fastestSecondsStr, 59999);
+            if(fastestTime > curPlayTime) 
+            {
+                SaveDataManager.Save(fastestSecondsStr, curPlayTime);
+            }
+        }
+    }
+
     private void StartEnding()
     {
+        updateHistoryData();
         // Canvas を探す（なければ作成）
         Canvas canvas = FindFirstObjectByType<Canvas>();
         if (canvas == null)
