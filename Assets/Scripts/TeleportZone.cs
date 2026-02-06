@@ -19,10 +19,12 @@ public class TeleportZone : MonoBehaviour
 
     private float stayTimer = 0f;
     private GuiController guiController;
+    private StageTitleView stageTitleView;
 
     private void Start()
     {
         guiController = FindAnyObjectByType<GuiController>();
+        stageTitleView = FindAnyObjectByType<StageTitleView>();
     }
 
     void OnTriggerStay2D(Collider2D other)
@@ -69,9 +71,11 @@ public class TeleportZone : MonoBehaviour
                 break;
             case TeleportPosIndex.OMOTE:
                 pc.moveInitialPosOmote();
+                stageTitleView.UpdateText(0.1f);
                 break;
             case TeleportPosIndex.URA:
                 pc.moveInitialPosUra();
+                stageTitleView.UpdateText(315.1f);
                 break;
             case TeleportPosIndex.EX1:
                 if (VersionManager.IsTrial)
@@ -85,6 +89,7 @@ public class TeleportZone : MonoBehaviour
                 {
                     // EXステージに飛ばす。
                     pc.moveInitialPosEx1();
+                    stageTitleView.UpdateText(player.gameObject.transform.position.y);
                 }
                 break;
             case TeleportPosIndex.EX2:
@@ -99,21 +104,20 @@ public class TeleportZone : MonoBehaviour
                 {
                     // EXステージに飛ばす。
                     pc.moveInitialPosEx2();
+                    stageTitleView.UpdateText(player.gameObject.transform.position.y);
                 }
                 break;
             default:
                 break;
         }
         // ざこモードが有効なら、ざこマークをGUI上に表示する。
-        guiController.UpdateZakoMark();
-
+        if(guiController != null) guiController.UpdateZakoMark();
         // UIリセット
         PlayerTeleportUI ui = player.GetComponent<PlayerTeleportUI>();
         if (ui != null)
         {
             ui.Hide();
         }
-
         stayTimer = 0f;
     }
 }

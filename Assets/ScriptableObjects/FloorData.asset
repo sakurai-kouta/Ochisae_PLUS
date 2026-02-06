@@ -133,8 +133,8 @@ MonoBehaviour:
   - floorName: "E20F \u9802\u70B9"
     floorName_EN: E20F Apex
     minHeight: 600
-  - floorName: "R1F \u5EC3\u68C4\u3055\u308C\u305F\u5854"
-    floorName_EN: R1F Abandoned Tower
+  - floorName: "R1F \u9AD8\u3044\u9AD8\u3044\u5854"
+    floorName_EN: R1F High And High Tower
     minHeight: 660
   - floorName: "R2F \u30E1\u30F3\u30C6\u30CA\u30F3\u30B9\u7528\u901A\u8DEF"
     floorName_EN: R2F Maintenance Passage

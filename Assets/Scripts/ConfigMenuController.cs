@@ -105,7 +105,11 @@ public class ConfigMenuController : MonoBehaviour
     {
         IsEnglish = isEnglish;
         IsEasy = isEasy;
-        guiController.UpdateZakoMarkRuntime();
+        if(guiController == null)
+        {
+            guiController = FindAnyObjectByType<GuiController>();
+        }
+        if(guiController != null ) guiController.UpdateZakoMarkRuntime();
         ConfigData data = new ConfigData
         {
             isEnglish = isEnglish,

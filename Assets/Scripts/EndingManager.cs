@@ -24,6 +24,9 @@ public class EndingManager : MonoBehaviour
     [SerializeField] private string totalCountStr;
     [SerializeField] private string fastestSecondsStr;
 
+    [Header("Other Settings")]
+    [SerializeField] private StageRuntimeData stageRuntimeData;
+
     private StageManager stageManager;
 
     private GameObject creditTextObject;
@@ -37,6 +40,8 @@ public class EndingManager : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (!collision.CompareTag("Player")) return;
+        stageRuntimeData.InvalidCheckpoint();
+        updateHistoryData();
         StartEnding();
     }
 
@@ -72,7 +77,6 @@ public class EndingManager : MonoBehaviour
 
     private void StartEnding()
     {
-        updateHistoryData();
         // Canvas ‚ğ’T‚·i‚È‚¯‚ê‚Îì¬j
         Canvas canvas = FindFirstObjectByType<Canvas>();
         if (canvas == null)
